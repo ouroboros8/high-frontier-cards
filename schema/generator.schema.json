@@ -1,0 +1,82 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/generator.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "description": "One of the sides of a patent from the Generator deck.",
+  "properties": {
+    "Ability": {
+      "type": "string"
+    },
+    "Air Eater": {
+      "type": "boolean"
+    },
+    "Deck": {
+      "const": "Generators"
+    },
+    "Mass": {
+      "type": "integer"
+    },
+    "Movement Modifiers": {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/movement-modifiers.schema.json"
+    },
+    "Name": {
+      "type": "string"
+    },
+    "Rad-Hard": {
+      "type": "integer"
+    },
+    "Side": {
+      "enum": [
+        "Front",
+        "Reverse"
+      ]
+    },
+    "Spectral Type": {
+      "enum": [
+        "C",
+        "S",
+        "M",
+        "V",
+        "D",
+        "H"
+      ]
+    },
+    "Subtypes": {
+      "items": {
+        "enum": [
+          "e",
+          "⟛"
+        ]
+      },
+      "type": "array"
+    },
+    "Support Requirements": {
+      "items": {
+        "oneOf": [
+          {
+            "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/generator-support-requirement.schema.json"
+          },
+          {
+            "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/reactor-support-requirement.schema.json"
+          },
+          {
+            "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/cooling-support-requirement.schema.json"
+          }
+        ]
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "Name",
+    "Deck",
+    "Side",
+    "Spectral Type",
+    "Mass",
+    "Rad-Hard",
+    "Subtypes",
+    "Support Requirements"
+  ],
+  "title": "Generator",
+  "type": "object"
+}
