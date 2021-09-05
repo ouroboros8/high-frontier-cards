@@ -1,1 +1,28 @@
-{"$schema": "https://json-schema.org/draft/2020-12/schema", "title": "ISRU", "description": "The card's ISRU rating and platform icons.", "type": "object", "properties": {"Rating": {"description": "The ISRU rating.", "type": "integer"}, "Platforms": {"description": "An array of platforms icons on the card.", "type": "array", "items": {"enum": ["Raygun", "Buggy", "Missile"]}}}, "required": ["Rating", "Platforms"]}
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/isru.schema.json",
+  "title": "ISRU",
+  "description": "The card's ISRU rating and platform icons.",
+  "type": "object",
+  "properties": {
+    "Rating": {
+      "description": "The ISRU rating.",
+      "type": "integer"
+    },
+    "Platforms": {
+      "description": "An array of platforms icons on the card.",
+      "type": "array",
+      "items": {
+        "enum": [
+          "Raygun",
+          "Buggy",
+          "Missile"
+        ]
+      }
+    }
+  },
+  "required": [
+    "Rating",
+    "Platforms"
+  ]
+}

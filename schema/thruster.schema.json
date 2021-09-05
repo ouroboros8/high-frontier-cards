@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Thruster",
+  "description": "A thruster in the Thruster deck.",
+  "type": "object",
+  "properties": {
+    "Name": {
+      "type": "string"
+    },
+    "Deck": {
+      "const": "Thrusters"
+    },
+    "Side": {
+      "enum": [
+        "Front",
+        "Reverse"
+      ]
+    },
+    "Spectral Type": {
+      "enum": [
+        "C",
+        "S",
+        "M",
+        "V",
+        "D",
+        "H"
+      ]
+    },
+    "Mass": {
+      "type": "integer"
+    },
+    "Rad-Hard": {
+      "type": "integer"
+    },
+    "Thrust Triangle": {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thrust-triangle.schema.json"
+    },
+    "Support Requirements": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          {
+            "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/generator-support-requirement.schema.json"
+          },
+          {
+            "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/reactor-support-requirement.schema.json"
+          },
+          {
+            "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/cooling-support-requirement.schema.json"
+          }
+        ]
+      }
+    },
+    "Bonus Pivots": {
+      "type": "integer"
+    },
+    "Ability": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "Name",
+    "Deck",
+    "Mass",
+    "Rad-Hard",
+    "Thrust Triangle",
+    "Support Requirements"
+  ],
+  "additionalProperties": false,
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thruster.schema.json"
+}
