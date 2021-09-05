@@ -1,0 +1,95 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/freighter-fleet.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "description": "The Freighter Fleet side of a card from the Freighters patent deck.",
+  "properties": {
+    "Ability": {
+      "type": "string"
+    },
+    "Bonus Pivots": {
+      "type": "integer"
+    },
+    "Deck": {
+      "const": "Freighters"
+    },
+    "Factory Loading Only": {
+      "type": "boolean"
+    },
+    "Future": {
+      "type": "string"
+    },
+    "Load-Limit": {
+      "type": "integer"
+    },
+    "Mass": {
+      "type": "integer"
+    },
+    "Name": {
+      "type": "string"
+    },
+    "Promotion Colony": {
+      "enum": [
+        "C",
+        "S",
+        "M",
+        "V",
+        "D",
+        "H",
+        "Push",
+        "Atmospheric",
+        "Submarine",
+        "Astrobiology"
+      ]
+    },
+    "Rad-Hard": {
+      "type": "integer"
+    },
+    "Side": {
+      "enum": [
+        "Front",
+        "Reverse"
+      ]
+    },
+    "Spectral Type": {
+      "enum": [
+        "C",
+        "S",
+        "M",
+        "V",
+        "D",
+        "H"
+      ]
+    },
+    "Supports Provided": {
+      "item": {
+        "enum": [
+          "e",
+          "⟛",
+          "X",
+          "∿",
+          "💣"
+        ]
+      },
+      "type": "array"
+    },
+    "Type": {
+      "const": "Freighter Fleet"
+    }
+  },
+  "required": [
+    "Name",
+    "Deck",
+    "Side",
+    "Type",
+    "Spectral Type",
+    "Promotion Colony",
+    "Mass",
+    "Rad-Hard",
+    "Load-Limit",
+    "Supports Provided",
+    "Future"
+  ],
+  "title": "Freighter Fleet",
+  "type": "object"
+}

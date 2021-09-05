@@ -1,0 +1,14 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/freighter.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "One side of a card from the Freighter deck.",
+  "oneOf": [
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/basic-freighter.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/freighter-fleet.schema.json"
+    }
+  ],
+  "title": "Freighter"
+}
