@@ -50,6 +50,7 @@
     },
     "Spectral Type": {
       "enum": [
+        "Any",
         "C",
         "S",
         "M",
