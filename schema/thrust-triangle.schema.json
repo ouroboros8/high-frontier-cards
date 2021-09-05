@@ -1,11 +1,10 @@
 {
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thrust-triangle.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Thrust Triangle",
   "description": "A thrust triangle on a card.",
-  "type": "object",
   "properties": {
-    "Thrust": {
-      "description": "The base thrust of the thrust triangle",
+    "Afterburn": {
+      "description": "The number of afterburns the thruster can perform.",
       "type": "integer"
     },
     "Fuel Consumption": {
@@ -20,10 +19,6 @@
         "Isotope"
       ]
     },
-    "Afterburn": {
-      "description": "The number of afterburns the thruster can perform.",
-      "type": "integer"
-    },
     "Push": {
       "description": "Whether the thrust triangle is pushable.",
       "type": "boolean"
@@ -31,6 +26,10 @@
     "Solar": {
       "description": "Whether the thrust triangle is solar.",
       "type": "boolean"
+    },
+    "Thrust": {
+      "description": "The base thrust of the thrust triangle",
+      "type": "integer"
     }
   },
   "required": [
@@ -38,5 +37,6 @@
     "Fuel Consumption",
     "Fuel Type"
   ],
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thrust-triangle.schema.json"
+  "title": "Thrust Triangle",
+  "type": "object"
 }

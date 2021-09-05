@@ -1,20 +1,20 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/generator-support-requirement.schema.json",
-  "title": "Generator Support Requirement",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "description": "A generator support required by a card.",
   "properties": {
-    "Type": {
-      "const": "Generator"
-    },
     "Subtypes": {
-      "type": "array",
       "items": {
         "enum": [
           "e",
           "⟛"
         ]
-      }
+      },
+      "type": "array"
+    },
+    "Type": {
+      "const": "Generator"
     }
-  }
+  },
+  "title": "Generator Support Requirement"
 }
