@@ -1,0 +1,74 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/bernal.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "description": "The basic Bernal side of a card from the Bernals patent deck.",
+  "properties": {
+    "Ability": {
+      "type": "string"
+    },
+    "Deck": {
+      "const": "Bernals"
+    },
+    "Mass": {
+      "type": "integer"
+    },
+    "Name": {
+      "type": "string"
+    },
+    "Promotion Colony": {
+      "enum": [
+        "C",
+        "S",
+        "M",
+        "V",
+        "D",
+        "H",
+        "Push",
+        "Atmospheric",
+        "Submarine",
+        "Astrobiology"
+      ]
+    },
+    "Rad-Hard": {
+      "type": "integer"
+    },
+    "Side": {
+      "enum": [
+        "Front",
+        "Reverse"
+      ]
+    },
+    "Support Requirements": {
+      "item": {
+        "oneOf": [
+          {
+            "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/reactor-support-requirement.schema.json"
+          },
+          {
+            "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/generator-support-requirement.schema.json"
+          },
+          {
+            "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/cooling-support-requirement.schema.json"
+          }
+        ]
+      },
+      "type": "array"
+    },
+    "Thrust Triangle": {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thrust-triangle.schema.json"
+    }
+  },
+  "required": [
+    "Name",
+    "Deck",
+    "Side",
+    "Promotion Colony",
+    "Mass",
+    "Rad-Hard",
+    "Thrust Triangle",
+    "Support Requirements"
+  ],
+  "title": "Bernal",
+  "type": "object"
+}
