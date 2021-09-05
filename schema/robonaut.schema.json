@@ -1,17 +1,17 @@
 {
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thruster.schema.json",
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robonaut.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
-  "description": "One of the sides of a patent from the Thruster deck.",
+  "description": "One of the sides of a patent from the Robonaut deck.",
   "properties": {
     "Ability": {
       "type": "string"
     },
-    "Bonus Pivots": {
-      "type": "integer"
-    },
     "Deck": {
-      "const": "Thrusters"
+      "const": "Robonauts"
+    },
+    "ISRU": {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/isru.schema.json"
     },
     "Mass": {
       "type": "integer"
@@ -65,9 +65,9 @@
     "Spectral Type",
     "Mass",
     "Rad-Hard",
-    "Thrust Triangle",
+    "ISRU",
     "Support Requirements"
   ],
-  "title": "Thruster",
+  "title": "Robonaut",
   "type": "object"
 }

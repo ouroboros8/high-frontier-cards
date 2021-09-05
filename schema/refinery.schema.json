@@ -1,17 +1,17 @@
 {
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thruster.schema.json",
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/refinery.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
-  "description": "One of the sides of a patent from the Thruster deck.",
+  "description": "One of the sides of a patent from the Refinery deck.",
   "properties": {
     "Ability": {
       "type": "string"
     },
-    "Bonus Pivots": {
-      "type": "integer"
+    "Air Eater": {
+      "type": "boolean"
     },
     "Deck": {
-      "const": "Thrusters"
+      "const": "Refineries"
     },
     "Mass": {
       "type": "integer"
@@ -53,9 +53,6 @@
         ]
       },
       "type": "array"
-    },
-    "Thrust Triangle": {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thrust-triangle.schema.json"
     }
   },
   "required": [
@@ -65,9 +62,8 @@
     "Spectral Type",
     "Mass",
     "Rad-Hard",
-    "Thrust Triangle",
     "Support Requirements"
   ],
-  "title": "Thruster",
+  "title": "Refinery",
   "type": "object"
 }
