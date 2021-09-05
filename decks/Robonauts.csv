@@ -1,0 +1,29 @@
+,,,,Thruster,,,,,,ISRU,,,,Support Requirements,,,,,,
+Name,"Spectral
+Type",Mass,Rad-Hard,Thrust,"Fuel
+Consumption","Fuel
+Type",Afterburn,Push,Solar,ISRU,Missile,Raygun,Buggy,⟛ Generator,e Generator,X Reactor,∿ Reactor,💣 Reactor,Therms,Ability
+Blackbody-Pumped Laser,S,0,5,,,,,0,0,2,0,1,0,0,0,0,1,1,1,
+Fissile Aerosol Laser,,0,7,,,,,0,0,2,0,1,0,0,0,0,0,0,1,
+Cat Fusion Z-pinch Torch,D,0,2,,,,,0,0,2,0,0,1,0,0,1,0,0,1,
+H-B Cat Inertial,,2,2,4,1/3,Water,1,0,0,0,1,0,0,0,0,1,0,0,1,
+Flywheel Tractor,D,0,5,,,,,0,0,3,0,0,1,0,1,0,0,0,,
+Electrophoretic Sandworm,,1,5,,,,,0,0,1,0,0,1,0,0,0,0,0,,
+Free Electron Laser,S,2,4,,,,,0,0,1,0,1,0,1,0,0,0,0,1,
+Wakefield e-Beam,,0,5,4,2,Dirt,2,0,0,1,1,0,0,1,0,0,0,0,,
+Kuck Mosquito,D,0,6,10,8,Water,2,0,0,3,1,0,0,0,0,0,0,1,,
+Ablative Laser,,0,6,3,1,Water,3,1,1,2,1,0,0,0,0,0,0,0,,
+MET Steamer,C,1,4,5,4,Water,1,1,0,2,1,0,0,0,1,0,0,0,,
+Nanobot,,0,5,,,,,0,0,1,0,0,1,0,0,0,0,0,,
+Neutral Beam,S,2,5,,,,,0,0,2,0,1,0,1,0,0,0,0,,
+D-D Fusion Inertial,,1,4,3,1/2,Water,1,0,0,1,1,0,0,1,0,0,0,0,2,
+Nuclear Drill,D,1,6,5,4,Water,1,1,0,3,1,0,0,0,0,0,1,0,,
+Helical Railgun,,2,8,5,4,Dirt,,1,0,0,1,1,0,1,0,0,0,0,,
+Phase-Locked Diode Laser,C,1,3,,,,,0,0,3,0,1,0,0,1,0,0,0,,
+Lorentz-Propelled Microprobe,,0,3,,,,,0,0,3,0,1,0,0,0,0,0,0,,NANITES: One re-roll if fail 1 or more size rolls.
+Rock Splitter,V,0,5,,,,,0,0,4,0,0,1,0,1,0,0,0,,
+MagBeam,,1,5,4,1,Water,1,1,1,3,1,1,0,0,0,0,0,0,,"-1 ISRU, +3 thrust if pushed by Powersat."
+Solar-Pumped MHD Exciplex Laser,C,3,4,,,,,0,0,2,0,1,0,0,0,0,0,0,2,
+Quantum Cascade Laser,,1,5,,,,,0,0,0,0,1,0,0,1,0,0,0,1,
+Tungsten Resistojet,M,0,5,5,4,Water,1,1,0,3,1,0,0,0,0,0,0,0,,
+MITEE Arcjet,,0,4,4,2,Water,2,1,0,1,1,0,0,0,1,0,0,0,,

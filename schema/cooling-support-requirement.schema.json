@@ -1,0 +1,1 @@
+{"$schema": "https://json-schema.org/draft/2020-12/schema", "title": "Cooling Support Requirement", "description": "A cooling support indicating therms of cooling required by a card.", "properties": {"Type": {"const": "Cooling"}, "Therms": {"type": "integer"}}}

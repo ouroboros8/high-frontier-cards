@@ -1,0 +1,31 @@
+,,,,Type,,,Thruster,,,Support Requirements,,,
+Name,"Spectral
+Type",Mass,Rad-Hard,X,∿,💣,"Thrust
+Modifier","Fuel
+Consumption
+Modifier","Air
+Eater",⟛ Generator,X Reactor,Therms,Ability
+Cermet NERVA Fission,S,1,7,0,1,0,3,1/1,0,0,0,,
+Pulsed NTR Fission,,0,7,0,1,1,0,1/4,0,0,0,5,
+D-D Fusion Magneto-Inertial,D,1,3,0,0,1,2,1/1,0,0,0,,
+H-B Fusion Reciprocating Plasmoid,,0,7,0,0,1,4,1/2,0,0,0,3,
+D-T Fusion Tokamak,H,3,5,0,1,0,3,1/2,0,0,0,2,
+Antimatter GDM,,0,9,1,1,1,0,1/4,0,0,0,3,
+D-T Gun Fusion,H,1,9,0,0,1,1,1/4,0,1,0,,
+Macron Blowpipe Fusion,,0,10,1,1,1,0,1/10,0,1,0,,
+Lyman Alpha Trap,S,2,4,1,0,1,-2,1/1,0,0,0,,
+Free Radical Hydrogen Trap,,0,4,1,0,1,0,1/2,0,0,0,1,
+Metallic Hydrogen,V,0,2,0,0,1,4,1/1,0,0,0,2,
+Fission-Augmented D-T Inertial Fusion,,1,7,0,0,1,7,1/1,0,0,0,2,
+Mini-Mag RF Paul Trap,C,1,2,1,0,0,-3,1/1,1,0,0,,SCOOP: -2 ISRU for Colocated ISRU platforms at Aerostat Sites.
+Ultracold Neutrons,,1,5,1,0,1,,,0,0,0,,SCOOP: -2 ISRU for Colocated ISRU platforms at Aerostat Sites.
+Pebble Bed Fission,S,1,6,0,1,0,4,1/1,0,0,0,1,
+VCR Light Bulb Fission,,0,6,0,1,0,2,1/2,0,0,0,1,
+Penning Trap,H,2,3,1,0,1,,,0,0,0,,
+3He-D Fusion Mirror Cell,,1,5,0,1,0,0,1/4,0,0,0,1,
+Project Orion,S,6,8,0,0,1,7,1/1,0,0,0,1,
+Project Valkyrie,,1,9,0,0,1,8,1/4,0,0,1,3,"When activated, Decommission colocated cards with Rad-Hard <4."
+Rubbia Thin Film Fission Hohlraum,M,1,5,0,1,0,0,1/2,0,0,0,1,
+Positronium Bottle,,0,9,1,1,0,0,1/2,0,0,0,1,
+Supercritical Water Fission,V,1,7,0,1,0,3,1/1,0,0,0,2,
+H-6Li Fusor,,0,4,0,1,1,2,1/1,0,0,0,,

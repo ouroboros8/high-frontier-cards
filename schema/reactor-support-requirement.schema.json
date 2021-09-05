@@ -1,0 +1,1 @@
+{"$schema": "https://json-schema.org/draft/2020-12/schema", "title": "Reactor Support Requirement", "description": "A reactor support required by a card.", "properties": {"Type": {"const": "Reactor"}, "Subtypes": {"type": "array", "items": {"enum": ["X", "\u223f", "\ud83d\udca3"]}}}}

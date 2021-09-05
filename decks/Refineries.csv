@@ -1,0 +1,28 @@
+,,,,,Support Requirements,,,,
+Name,"Spectral
+Type",Mass,Rad-Hard,"Air
+Eater",e Generator,X Reactor,∿ Reactor,💣 Reactor,Ability
+Atomic Layer Deposition,V,2,2,,1,0,0,0,
+Ilmenite Semiconductor Film,,2,6,,0,0,0,0,"POWER GIRDLE: If used to industrialize a non-atmospheric site of size 8+, you permanently gain the Powersat faction privilege."
+Basalt Fiber Spinning,S,3,5,,0,1,1,1,
+Von Neumann Santa Claus Machine,,2,5,,0,0,0,0,DIVINING NUBOTS: -1 ISRU for Colocated ISRU platform.
+CVD Molding,M,3,5,,0,0,0,0,
+Carbonyl Volatilization,,2,5,,0,0,0,0,THORIUM BREEDER: -3 to Colocated size rolls on S Sites.
+Carbo-Chlorination,V,2,4,,1,0,0,0,
+Solar Carbotherm,,2,5,,0,0,0,0,"ARCOLOGY: Decommissioning of a robonaut is not needed when this is used to industrialize in the zones Mercury, Venus, Earth"
+Electroforming,M,3,3,,1,0,0,0,
+Impact Mold Sinter,,3,5,,0,0,0,0,FOAMED NICKEL: -1 to Colocated size rolls.
+Fluidized Bed,V,3,4,,1,0,0,0,
+Atmospheric Scoop,,1,5,1,1,0,0,0,"SCOOP: If operational, this card makes adjacent or colocated aerostat sites into [2 hydration]"
+Foamglass Sintering,D,3,4,,1,0,0,0,
+Laser-Heated Pedestal Growth,,1,5,,1,0,0,0,SUPERLENS: -1 to all Colocated raygun size rolls.
+Froth Flotation,D,3,5,,1,0,0,0,
+Femtochemistry,,2,8,,0,0,0,0,"SCAVENGING: If Colocated, doubles FTs during site refuel."
+ISRU Sabatier,V,3,4,,1,0,0,0,
+Biophytolytic Algal Farm,,3,5,,0,0,0,0,COMET LICHEN: -2 to Colocated size rolls on D Sites.
+In-Situ Leaching,D,3,3,,0,1,1,1,
+Termite Nest,,1,3,,0,1,1,1,"MINE REVIVAL: As an op, remove a busted disk and place Claim on a Colocated Site of Size 2+."
+Magma Electrolysis,V,3,3,,1,0,0,0,
+Ionosphere Lasing,,2,6,,0,0,0,0,"IONOSAT: If used to industrialize an Atmospheric Site, permanently gain the Powersat faction privilege."
+Supercritical Drying,H,1,5,,0,1,0,0,
+Solid Flame,,0,5,,0,1,0,0,JELLYBOTS: Colocated industrialization is a free action.

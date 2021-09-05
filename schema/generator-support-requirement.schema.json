@@ -1,0 +1,1 @@
+{"$schema": "https://json-schema.org/draft/2020-12/schema", "title": "Generator Support Requirement", "description": "A generator support required by a card.", "properties": {"Type": {"const": "Generator"}, "Subtypes": {"type": "array", "items": {"enum": ["e", "\u27db"]}}}}

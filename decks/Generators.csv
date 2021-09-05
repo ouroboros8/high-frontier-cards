@@ -1,0 +1,41 @@
+,,,,Type,,Thruster,,,,Support Requirements,,,,,
+Name,"Spectral
+Type",Mass,Rad-Hard,⟛,e,"Thrust
+Modifier","Fuel
+Consumption
+Modifier","Air
+Eater",Solar,e Generator,X Reactor,∿ Reactor,💣 Reactor,Therms,Ability
+AMTEC Thermoelectric,C,1,6,1,1,,,1,0,0,0,1,0,1,
+JTEC H2 Thermoelectric,,1,4,1,1,,,1,1,0,0,0,0,,
+Brayton Turbine,C,1,5,1,1,,,1,0,0,0,1,1,2,
+O'Meara LSP Paralens,,0,10,0,1,0,1/2,1,1,0,0,0,0,,
+Cascade Photovoltaic,C,3,1,0,1,,,0,1,0,0,0,0,,
+Buckyball C60 Photovoltaic,,2,3,0,1,1,1/1,0,1,0,0,0,0,,
+Cascade Thermoacoustic,V,0,5,0,1,,,1,0,0,0,1,0,2,
+Dusty Plasma MHD,,1,6,0,1,,,1,0,0,0,0,0,,
+Catalyzed Fission Scintillator,D,0,7,1,1,,,0,0,0,1,0,0,1,
+Diamonoid Electro-Dynamic Tether,,2,4,1,1,,,0,0,0,0,0,0,,
+Ericsson Engine,C,1,5,0,1,,,1,0,0,0,1,1,1,
+Nanocomposite Thermoelectric,,1,5,0,1,1,1/1,1,0,0,1,1,1,,
+Flywheel Compulsator,M,4,4,1,1,,,0,1,0,0,0,0,,
+Superconducting Adductor,,1,4,1,1,,,0,0,0,0,0,0,,
+H2-O2 Fuel Cell,C,4,4,0,1,,,0,1,0,0,0,0,,
+Microbial Fuel Cell,,2,5,1,1,1,1/1,0,1,0,0,0,0,,
+In-Core Thermionic,S,0,6,1,1,,,1,0,0,0,1,1,2,
+Z-Pinch Microfission,,2,9,1,1,4,1/1,1,0,0,0,0,0,1,
+Magnetoshell Plasma Parachute,S,0,5,0,1,-2,1/1,0,1,0,0,0,0,,This stack can safely enter aerobrakes. Cannot be used to support Bernals or during industrialization.
+Granular Rainbow Corral,,0,10,0,1,,,0,1,0,0,0,0,,This stack can safely enter aerobrakes.
+Marx Capacitor Bank,M,1,4,1,0,,,0,0,1,0,0,0,,
+Casimir Battery,,0,3,1,0,,,0,0,1,0,0,0,,
+Optoelectric Nuclear Battery,V,2,6,0,1,,,1,0,0,0,0,0,2,
+Nuclear-Pumped Excimer Flashlamp,,0,8,0,1,1,1/1,1,0,0,0,1,1,3,
+Photon Tether Rectenna,V,2,2,0,1,-1,1/1,0,1,0,0,0,0,,
+Palmer LSP Aerosol Lens,,0,10,0,1,1,1/1,1,1,0,0,0,0,,
+Radioisotope Stirling,M,3,4,0,1,-2,1/1,0,0,0,0,0,0,,
+Triggered Decay Nuclear Battery,,1,6,1,1,,,0,0,0,0,0,0,,
+Rankine MHD,M,0,4,0,1,,,1,0,0,0,1,1,2,
+MHD Open-Cycle,,0,4,1,1,1,1/1,1,0,0,0,0,1,,
+Rankine Solar Dynamic,D,2,4,0,1,,,0,1,0,0,0,0,1,
+Rankine Multiphase,,0,4,1,1,,,0,0,0,1,1,1,,
+Solar Stirling,C,3,5,0,1,,,0,1,0,0,0,0,1,
+Thermo-Photovoltaic,,2,4,0,1,1,1/1,0,1,0,0,0,0,,
