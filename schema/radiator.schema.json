@@ -41,8 +41,8 @@
     "Deck",
     "Side",
     "Spectral Type",
-    "Light Side",
-    "Heavy Side"
+    "Light",
+    "Heavy"
   ],
   "title": "Radiator",
   "type": "object"
