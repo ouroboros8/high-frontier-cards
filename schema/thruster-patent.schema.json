@@ -1,0 +1,23 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thruster-patent.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "description": "A card from the Thruster patent deck",
+  "properties": {
+    "Deck": {
+      "const": "Thrusters"
+    },
+    "Front": {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thruster.schema.json"
+    },
+    "Reverse": {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thruster.schema.json"
+    }
+  },
+  "required": [
+    "Deck",
+    "Front",
+    "Reverse"
+  ],
+  "title": "Thruster Patent"
+}
