@@ -1,0 +1,49 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/radiator.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "description": "One of the sides of a patent from the Radiator deck.",
+  "properties": {
+    "Ability": {
+      "type": "string"
+    },
+    "Deck": {
+      "const": "Radiators"
+    },
+    "Heavy": {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/radiator-orientation.schema.json"
+    },
+    "Light": {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/radiator-orientation.schema.json"
+    },
+    "Name": {
+      "type": "string"
+    },
+    "Side": {
+      "enum": [
+        "Front",
+        "Reverse"
+      ]
+    },
+    "Spectral Type": {
+      "enum": [
+        "C",
+        "S",
+        "M",
+        "V",
+        "D",
+        "H"
+      ]
+    }
+  },
+  "required": [
+    "Name",
+    "Deck",
+    "Side",
+    "Spectral Type",
+    "Light Side",
+    "Heavy Side"
+  ],
+  "title": "Radiator",
+  "type": "object"
+}

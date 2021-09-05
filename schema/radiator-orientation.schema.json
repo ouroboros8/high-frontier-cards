@@ -1,0 +1,34 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/radiator-orientation.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "One of the orientations of a Radiator card.",
+  "properties": {
+    "Mass": {
+      "type": "integer"
+    },
+    "Rad-Hard": {
+      "type": "integer"
+    },
+    "Support Requirements": {
+      "items": {
+        "oneOf": [
+          {
+            "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/generator-support-requirement.schema.json"
+          },
+          {
+            "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/reactor-support-requirement.schema.json"
+          },
+          {
+            "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/cooling-support-requirement.schema.json"
+          }
+        ]
+      },
+      "type": "array"
+    },
+    "Therms": {
+      "type": "integer"
+    }
+  },
+  "title": "Radiator Orientation",
+  "type": "object"
+}
