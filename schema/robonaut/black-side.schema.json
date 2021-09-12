@@ -32,8 +32,7 @@
     "name",
     "mass",
     "radHard",
-    "ISRU",
-    "supportRequirements"
+    "ISRU"
   ],
   "title": "Robonaut Black-Side",
   "type": "object"
