@@ -1,0 +1,25 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/movement-modifiers.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "A movement modifier triangle on a card.",
+  "properties": {
+    "fuelConsumption": {
+      "description": "A string representation of the fuel consumption modifier as an integer or fraction.",
+      "type": "string"
+    },
+    "solar": {
+      "description": "Whether the modifier applies solar.",
+      "type": "boolean"
+    },
+    "thrust": {
+      "description": "The thrust modifier",
+      "type": "integer"
+    }
+  },
+  "required": [
+    "thrust",
+    "fuelConsumption"
+  ],
+  "title": "Movement Modifiers",
+  "type": "object"
+}
