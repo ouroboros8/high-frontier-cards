@@ -1,0 +1,13 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/supports/cooling.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "properties": {
+    "Therms": {
+      "type": "integer"
+    },
+    "Type": {
+      "const": "cooling"
+    }
+  },
+  "title": "Cooling Support Requirement"
+}

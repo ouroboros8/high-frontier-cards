@@ -1,7 +1,6 @@
 {
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/reactor-support-requirement.schema.json",
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/supports/reactor.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "description": "A reactor support required by a card.",
   "properties": {
     "Subtypes": {
       "items": {
@@ -14,8 +13,8 @@
       "type": "array"
     },
     "Type": {
-      "const": "Reactor"
+      "const": "reactor"
     }
   },
-  "title": "Reactor Support Requirement"
+  "title": "Reactor Support"
 }

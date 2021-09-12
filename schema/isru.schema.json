@@ -3,25 +3,25 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "description": "The card's ISRU rating and platform icons.",
   "properties": {
-    "Platforms": {
+    "platforms": {
       "description": "An array of platforms icons on the card.",
       "items": {
         "enum": [
-          "Raygun",
-          "Buggy",
-          "Missile"
+          "raygun",
+          "buggy",
+          "missile"
         ]
       },
       "type": "array"
     },
-    "Rating": {
+    "rating": {
       "description": "The ISRU rating.",
       "type": "integer"
     }
   },
   "required": [
-    "Rating",
-    "Platforms"
+    "rating",
+    "platforms"
   ],
   "title": "ISRU",
   "type": "object"

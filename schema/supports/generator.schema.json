@@ -1,0 +1,19 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/supports/generator.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "properties": {
+    "subtypes": {
+      "items": {
+        "enum": [
+          "e",
+          "⟛"
+        ]
+      },
+      "type": "array"
+    },
+    "type": {
+      "const": "generator"
+    }
+  },
+  "title": "Generator Support"
+}

@@ -3,39 +3,39 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "description": "A thrust triangle on a card.",
   "properties": {
-    "Afterburn": {
+    "afterburn": {
       "description": "The number of afterburns the thruster can perform.",
       "type": "integer"
     },
-    "Fuel Consumption": {
+    "fuelConsumption": {
       "description": "A string representation of the base fuel consumption as an integer or fraction.",
       "type": "string"
     },
-    "Fuel Type": {
+    "fuelType": {
       "description": "The type of fuel the thrust triangle consumes.",
       "enum": [
-        "Water",
-        "Dirt",
-        "Isotope"
+        "water",
+        "dirt",
+        "isotope"
       ]
     },
-    "Push": {
+    "push": {
       "description": "Whether the thrust triangle is pushable.",
       "type": "boolean"
     },
-    "Solar": {
+    "solar": {
       "description": "Whether the thrust triangle is solar.",
       "type": "boolean"
     },
-    "Thrust": {
+    "thrust": {
       "description": "The base thrust of the thrust triangle",
       "type": "integer"
     }
   },
   "required": [
-    "Thrust",
-    "Fuel Consumption",
-    "Fuel Type"
+    "thrust",
+    "fuelConsumption",
+    "fuelType"
   ],
   "title": "Thrust Triangle",
   "type": "object"
