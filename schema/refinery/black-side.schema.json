@@ -1,0 +1,35 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/refinery/black-side.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "ability": {
+      "type": "string"
+    },
+    "airEater": {
+      "type": "boolean"
+    },
+    "mass": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "radHard": {
+      "type": "integer"
+    },
+    "supportRequirements": {
+      "items": {
+        "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/supports/any.schema.json"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "name",
+    "mass",
+    "radHard"
+  ],
+  "title": "Refinery Black-Side",
+  "type": "object"
+}
