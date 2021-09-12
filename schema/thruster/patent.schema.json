@@ -6,11 +6,11 @@
     "back": {
       "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thruster/black-side.schema.json"
     },
+    "cardId": {
+      "type": "integer"
+    },
     "front": {
       "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thruster/white-side.schema.json"
-    },
-    "name": {
-      "type": "string"
     },
     "spectralType": {
       "enum": [
@@ -27,7 +27,7 @@
     }
   },
   "required": [
-    "name",
+    "cardId",
     "type",
     "spectralType",
     "front",
