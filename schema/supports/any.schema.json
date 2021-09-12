@@ -12,6 +12,5 @@
       "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/supports/cooling.schema.json"
     }
   ],
-  "title": "Support",
-  "type": "object"
+  "title": "Support"
 }

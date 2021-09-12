@@ -1,0 +1,38 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robonaut/patent.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "back": {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robonaut/black-side.schema.json"
+    },
+    "cardId": {
+      "type": "integer"
+    },
+    "front": {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robonaut/white-side.schema.json"
+    },
+    "spectralType": {
+      "enum": [
+        "C",
+        "S",
+        "M",
+        "V",
+        "D",
+        "H"
+      ]
+    },
+    "type": {
+      "const": "robonaut"
+    }
+  },
+  "required": [
+    "cardId",
+    "type",
+    "spectralType",
+    "front",
+    "back"
+  ],
+  "title": "Robonaut",
+  "type": "object"
+}
