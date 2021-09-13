@@ -1,0 +1,32 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/sides/white.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "oneOf": [
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thruster.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robonaut.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/refinery.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/reactor.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/radiator.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/generator.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/bernal.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/humanColonist.schema.json"
+    }
+  ],
+  "title": "Card White-Side",
+  "type": "object"
+}

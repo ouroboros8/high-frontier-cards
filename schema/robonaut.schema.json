@@ -1,5 +1,5 @@
 {
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robonaut/black-side.schema.json",
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robonaut.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
   "properties": {
@@ -34,6 +34,6 @@
     "radHard",
     "ISRU"
   ],
-  "title": "Robonaut Black-Side",
+  "title": "Robonaut",
   "type": "object"
 }

@@ -1,0 +1,76 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/card.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "back": {
+      "anyOf": [
+        {
+          "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/sides/black.schema.json"
+        },
+        {
+          "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/sides/purple.schema.json"
+        }
+      ]
+    },
+    "cardId": {
+      "type": "integer"
+    },
+    "deck": {
+      "enum": [
+        "Thrusters",
+        "Robonauts",
+        "Refineries",
+        "Reactors",
+        "Radiators",
+        "Generators",
+        "GW/TW Thrusters",
+        "Freighters",
+        "Bernals",
+        "Colonists"
+      ]
+    },
+    "front": {
+      "anyOf": [
+        {
+          "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/sides/white.schema.json"
+        },
+        {
+          "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/sides/black.schema.json"
+        }
+      ]
+    },
+    "promotionColony": {
+      "enum": [
+        "C",
+        "S",
+        "M",
+        "V",
+        "D",
+        "H",
+        "submarine",
+        "astrobiology",
+        "atmospheric",
+        "push"
+      ]
+    },
+    "spectralType": {
+      "enum": [
+        "C",
+        "S",
+        "M",
+        "V",
+        "D",
+        "H"
+      ]
+    }
+  },
+  "required": [
+    "cardId",
+    "deck",
+    "front",
+    "back"
+  ],
+  "title": "Card",
+  "type": "object"
+}

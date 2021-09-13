@@ -1,0 +1,35 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/sides/black.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "oneOf": [
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thruster.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robonaut.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/refinery.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/reactor.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/radiator.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/generator.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/GWThruster.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/freighter.schema.json"
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robotColonist.schema.json"
+    }
+  ],
+  "title": "Card Black-Side",
+  "type": "object"
+}

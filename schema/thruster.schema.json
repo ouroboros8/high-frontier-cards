@@ -1,19 +1,16 @@
 {
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/generator/white-side.schema.json",
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thruster.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
   "properties": {
     "ability": {
       "type": "string"
     },
-    "airEater": {
-      "type": "boolean"
+    "bonusPivots": {
+      "type": "integer"
     },
     "mass": {
       "type": "integer"
-    },
-    "movementModifiers": {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/movement-modifiers.schema.json"
     },
     "name": {
       "type": "string"
@@ -27,19 +24,16 @@
       },
       "type": "array"
     },
-    "supports": {
-      "items": {
-        "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/supports/any.schema.json"
-      },
-      "type": "array"
+    "thrustTriangle": {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thrust-triangle.schema.json"
     }
   },
   "required": [
     "name",
     "mass",
     "radHard",
-    "supports"
+    "thrustTriangle"
   ],
-  "title": "Generator White Side",
+  "title": "Thruster",
   "type": "object"
 }
