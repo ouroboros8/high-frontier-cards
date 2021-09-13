@@ -3,7 +3,9 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
   "properties": {
-    "ability": "string",
+    "ability": {
+      "type": "string"
+    },
     "mass": {
       "type": "integer"
     },
