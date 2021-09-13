@@ -1,0 +1,45 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/generator/black-side.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "ability": {
+      "type": "string"
+    },
+    "airEater": {
+      "type": "boolean"
+    },
+    "mass": {
+      "type": "integer"
+    },
+    "movementModifiers": {
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/movement-modifiers.schema.json"
+    },
+    "name": {
+      "type": "string"
+    },
+    "radHard": {
+      "type": "integer"
+    },
+    "supportRequirements": {
+      "items": {
+        "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/supports/any.schema.json"
+      },
+      "type": "array"
+    },
+    "supports": {
+      "items": {
+        "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/supports/any.schema.json"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "name",
+    "mass",
+    "radHard",
+    "supports"
+  ],
+  "title": "Generator Black Side",
+  "type": "object"
+}
