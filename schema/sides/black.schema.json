@@ -21,13 +21,13 @@
       "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/generator.schema.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/GWThruster.schema.json"
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/gw-thruster.schema.json"
     },
     {
       "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/freighter.schema.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robotColonist.schema.json"
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robot-colonist.schema.json"
     }
   ],
   "title": "Card Black-Side",

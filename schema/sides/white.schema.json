@@ -24,7 +24,7 @@
       "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/bernal.schema.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/humanColonist.schema.json"
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/human-colonist.schema.json"
     }
   ],
   "title": "Card White-Side",

@@ -3,16 +3,16 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "oneOf": [
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/TWThruster.schema.json"
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/tw-thruster.schema.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/freighter.schema.json"
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/freighter-fleet.schema.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/promotedBernal.schema.json"
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/promoted-bernal.schema.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/promotedColonist.schema.json"
+      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/promoted-colonist.schema.json"
     }
   ],
   "title": "Card Purple-Side",
