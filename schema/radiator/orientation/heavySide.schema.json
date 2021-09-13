@@ -1,0 +1,30 @@
+{
+  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/radiator/orientation/heavySide.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "ability": "string",
+    "mass": {
+      "type": "integer"
+    },
+    "radHard": {
+      "type": "integer"
+    },
+    "supportRequirements": {
+      "items": {
+        "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/supports/any.schema.json"
+      },
+      "type": "array"
+    },
+    "therms": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "mass",
+    "radHard",
+    "therms"
+  ],
+  "title": "Radiator Heavy Side",
+  "type": "object"
+}
