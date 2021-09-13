@@ -1,7 +1,7 @@
 {
   "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/sides/purple.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "oneOf": [
+  "anyOf": [
     {
       "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/tw-thruster.schema.json"
     },
