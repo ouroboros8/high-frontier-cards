@@ -1,5 +1,5 @@
 {
-  "$id": "http://localhost:8800/human-colonist.schema.json",
+  "$id": "http://localhost:8800/promoted-robot-colonist.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
   "properties": {
@@ -15,16 +15,8 @@
     "bonusPivots": {
       "type": "integer"
     },
-    "ideology": {
-      "enum": [
-        "Honor",
-        "Freedom",
-        "Individuality",
-        "Equality",
-        "Authority",
-        "Unity",
-        "Centrist"
-      ]
+    "future": {
+      "type": "string"
     },
     "mass": {
       "type": "integer"
@@ -56,10 +48,10 @@
   "required": [
     "name",
     "specialty",
-    "ideology",
     "mass",
-    "radHard"
+    "radHard",
+    "future"
   ],
-  "title": "Human Colonist",
+  "title": "Promoted Robot Colonist",
   "type": "object"
 }

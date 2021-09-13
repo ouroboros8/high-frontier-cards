@@ -1,5 +1,5 @@
 {
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thruster.schema.json",
+  "$id": "http://localhost:8800/thruster.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
   "properties": {
@@ -20,12 +20,12 @@
     },
     "supportRequirements": {
       "items": {
-        "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/supports/any.schema.json"
+        "$ref": "http://localhost:8800/supports/any.schema.json"
       },
       "type": "array"
     },
     "thrustTriangle": {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thrust-triangle.schema.json"
+      "$ref": "http://localhost:8800/thrust-triangle.schema.json"
     }
   },
   "required": [

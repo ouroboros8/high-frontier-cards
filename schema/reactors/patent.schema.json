@@ -1,0 +1,38 @@
+{
+  "$id": "http://localhost:8800/reactors/patent.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "back": {
+      "$ref": "http://localhost:8800/reactors/black-side.schema.json"
+    },
+    "cardId": {
+      "type": "integer"
+    },
+    "front": {
+      "$ref": "http://localhost:8800/reactors/white-side.schema.json"
+    },
+    "spectralType": {
+      "enum": [
+        "C",
+        "S",
+        "M",
+        "V",
+        "D",
+        "H"
+      ]
+    },
+    "type": {
+      "const": "reactor"
+    }
+  },
+  "required": [
+    "cardId",
+    "type",
+    "spectralType",
+    "front",
+    "back"
+  ],
+  "title": "Reactor",
+  "type": "object"
+}

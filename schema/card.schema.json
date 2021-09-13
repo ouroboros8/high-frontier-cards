@@ -1,15 +1,15 @@
 {
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/card.schema.json",
+  "$id": "http://localhost:8800/card.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
   "properties": {
     "back": {
       "anyOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/sides/black.schema.json"
+          "$ref": "http://localhost:8800/sides/black.schema.json"
         },
         {
-          "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/sides/purple.schema.json"
+          "$ref": "http://localhost:8800/sides/purple.schema.json"
         }
       ]
     },
@@ -33,10 +33,10 @@
     "front": {
       "anyOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/sides/white.schema.json"
+          "$ref": "http://localhost:8800/sides/white.schema.json"
         },
         {
-          "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/sides/black.schema.json"
+          "$ref": "http://localhost:8800/sides/black.schema.json"
         }
       ]
     },
@@ -48,10 +48,10 @@
         "V",
         "D",
         "H",
-        "submarine",
-        "astrobiology",
-        "atmospheric",
-        "push"
+        "Submarine",
+        "Astrobiology",
+        "Atmospheric",
+        "Push"
       ]
     },
     "spectralType": {
@@ -61,7 +61,8 @@
         "M",
         "V",
         "D",
-        "H"
+        "H",
+        "Any"
       ]
     }
   },

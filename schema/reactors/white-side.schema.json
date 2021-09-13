@@ -1,25 +1,19 @@
 {
-  "$id": "http://localhost:8800/freighter-fleet.schema.json",
+  "$id": "http://localhost:8800/reactors/white-side.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
   "properties": {
     "ability": {
       "type": "string"
     },
-    "bonusPivots": {
-      "type": "integer"
-    },
-    "factoryLoadingOnly": {
+    "airEater": {
       "type": "boolean"
-    },
-    "future": {
-      "type": "string"
-    },
-    "loadLimit": {
-      "type": "integer"
     },
     "mass": {
       "type": "integer"
+    },
+    "movementModifiers": {
+      "$ref": "http://localhost:8800/movement-modifiers.schema.json"
     },
     "name": {
       "type": "string"
@@ -27,8 +21,14 @@
     "radHard": {
       "type": "integer"
     },
+    "supportRequirements": {
+      "items": {
+        "$ref": "http://localhost:8800/supports/any.schema.json"
+      },
+      "type": "array"
+    },
     "supports": {
-      "item": {
+      "items": {
         "$ref": "http://localhost:8800/supports/any.schema.json"
       },
       "type": "array"
@@ -38,9 +38,8 @@
     "name",
     "mass",
     "radHard",
-    "loadLimit",
-    "future"
+    "supports"
   ],
-  "title": "Freighter Fleet",
+  "title": "Reactor White Side",
   "type": "object"
 }

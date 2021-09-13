@@ -1,4 +1,35 @@
 {
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/refinery.schema.json",
-  "$schema": "https://json-schema.org/draft/2020-12/schema"
+  "$id": "http://localhost:8800/refinery.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "ability": {
+      "type": "string"
+    },
+    "airEater": {
+      "type": "boolean"
+    },
+    "mass": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "radHard": {
+      "type": "integer"
+    },
+    "supportRequirements": {
+      "items": {
+        "$ref": "http://localhost:8800/supports/any.schema.json"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "name",
+    "mass",
+    "radHard"
+  ],
+  "title": "Refinery",
+  "type": "object"
 }

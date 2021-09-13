@@ -1,22 +1,13 @@
 {
-  "$id": "http://localhost:8800/freighter-fleet.schema.json",
+  "$id": "http://localhost:8800/refinery/white-side.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
   "properties": {
     "ability": {
       "type": "string"
     },
-    "bonusPivots": {
-      "type": "integer"
-    },
-    "factoryLoadingOnly": {
+    "airEater": {
       "type": "boolean"
-    },
-    "future": {
-      "type": "string"
-    },
-    "loadLimit": {
-      "type": "integer"
     },
     "mass": {
       "type": "integer"
@@ -27,8 +18,8 @@
     "radHard": {
       "type": "integer"
     },
-    "supports": {
-      "item": {
+    "supportRequirements": {
+      "items": {
         "$ref": "http://localhost:8800/supports/any.schema.json"
       },
       "type": "array"
@@ -37,10 +28,8 @@
   "required": [
     "name",
     "mass",
-    "radHard",
-    "loadLimit",
-    "future"
+    "radHard"
   ],
-  "title": "Freighter Fleet",
+  "title": "Refinery White-Side",
   "type": "object"
 }

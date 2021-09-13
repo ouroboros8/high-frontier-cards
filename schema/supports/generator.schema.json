@@ -1,5 +1,5 @@
 {
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/supports/generator.schema.json",
+  "$id": "http://localhost:8800/supports/generator.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
   "properties": {

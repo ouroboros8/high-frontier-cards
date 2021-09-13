@@ -1,4 +1,5 @@
 {
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/promoted-colonist.schema.json",
-  "$schema": "https://json-schema.org/draft/2020-12/schema"
+  "$id": "http://localhost:8800/promoted-colonist.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "null"
 }

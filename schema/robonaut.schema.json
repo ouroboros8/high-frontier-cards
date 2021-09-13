@@ -1,4 +1,39 @@
 {
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robonaut.schema.json",
-  "$schema": "https://json-schema.org/draft/2020-12/schema"
+  "$id": "http://localhost:8800/robonaut.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "ISRU": {
+      "$ref": "http://localhost:8800/isru.schema.json"
+    },
+    "ability": {
+      "type": "string"
+    },
+    "mass": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "radHard": {
+      "type": "integer"
+    },
+    "supportRequirements": {
+      "items": {
+        "$ref": "http://localhost:8800/supports/any.schema.json"
+      },
+      "type": "array"
+    },
+    "thrustTriangle": {
+      "$ref": "http://localhost:8800/thrust-triangle.schema.json"
+    }
+  },
+  "required": [
+    "name",
+    "mass",
+    "radHard",
+    "ISRU"
+  ],
+  "title": "Robonaut",
+  "type": "object"
 }

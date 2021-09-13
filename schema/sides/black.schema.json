@@ -1,33 +1,33 @@
 {
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/sides/black.schema.json",
+  "$id": "http://localhost:8800/sides/black.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "anyOf": [
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/thruster.schema.json"
+      "$ref": "http://localhost:8800/thruster.schema.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robonaut.schema.json"
+      "$ref": "http://localhost:8800/robonaut.schema.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/refinery.schema.json"
+      "$ref": "http://localhost:8800/refinery.schema.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/reactor.schema.json"
+      "$ref": "http://localhost:8800/reactor.schema.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/radiator.schema.json"
+      "$ref": "http://localhost:8800/radiator.schema.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/generator.schema.json"
+      "$ref": "http://localhost:8800/generator.schema.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/gw-thruster.schema.json"
+      "$ref": "http://localhost:8800/gw-thruster.schema.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/freighter.schema.json"
+      "$ref": "http://localhost:8800/freighter.schema.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robot-colonist.schema.json"
+      "$ref": "http://localhost:8800/robot-colonist.schema.json"
     }
   ],
   "title": "Card Black-Side",

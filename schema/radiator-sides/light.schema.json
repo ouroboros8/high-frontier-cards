@@ -1,46 +1,32 @@
 {
-  "$id": "http://localhost:8800/freighter-fleet.schema.json",
+  "$id": "http://localhost:8800/radiator-sides/light.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
   "properties": {
     "ability": {
       "type": "string"
     },
-    "bonusPivots": {
-      "type": "integer"
-    },
-    "factoryLoadingOnly": {
-      "type": "boolean"
-    },
-    "future": {
-      "type": "string"
-    },
-    "loadLimit": {
-      "type": "integer"
-    },
     "mass": {
       "type": "integer"
-    },
-    "name": {
-      "type": "string"
     },
     "radHard": {
       "type": "integer"
     },
-    "supports": {
-      "item": {
+    "supportRequirements": {
+      "items": {
         "$ref": "http://localhost:8800/supports/any.schema.json"
       },
       "type": "array"
+    },
+    "therms": {
+      "type": "integer"
     }
   },
   "required": [
-    "name",
     "mass",
     "radHard",
-    "loadLimit",
-    "future"
+    "therms"
   ],
-  "title": "Freighter Fleet",
+  "title": "Radiator Light Side",
   "type": "object"
 }

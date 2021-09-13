@@ -1,4 +1,53 @@
 {
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/robot-colonist.schema.json",
-  "$schema": "https://json-schema.org/draft/2020-12/schema"
+  "$id": "http://localhost:8800/robot-colonist.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "ISRU": {
+      "$ref": "http://localhost:8800/isru.schema.json"
+    },
+    "ability": {
+      "type": "string"
+    },
+    "airEater": {
+      "type": "boolean"
+    },
+    "bonusPivots": {
+      "type": "integer"
+    },
+    "mass": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "radHard": {
+      "type": "integer"
+    },
+    "specialty": {
+      "enum": [
+        "Engineer",
+        "Miner",
+        "Prospector",
+        "Industrialist"
+      ]
+    },
+    "supports": {
+      "item": {
+        "$ref": "http://localhost:8800/supports/any.schema.json"
+      },
+      "type": "array"
+    },
+    "thrustTriangle": {
+      "$ref": "http://localhost:8800/thrust-triangle.schema.json"
+    }
+  },
+  "required": [
+    "name",
+    "specialty",
+    "mass",
+    "radHard"
+  ],
+  "title": "Robot Colonist",
+  "type": "object"
 }

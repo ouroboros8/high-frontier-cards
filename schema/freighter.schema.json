@@ -1,4 +1,42 @@
 {
-  "$id": "https://raw.githubusercontent.com/ouroboros8/high-frontier-cards/main/schema/freighter.schema.json",
-  "$schema": "https://json-schema.org/draft/2020-12/schema"
+  "$id": "http://localhost:8800/freighter.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "ability": {
+      "type": "string"
+    },
+    "bonusPivots": {
+      "type": "integer"
+    },
+    "factoryLoadingOnly": {
+      "type": "boolean"
+    },
+    "loadLimit": {
+      "type": "integer"
+    },
+    "mass": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "radHard": {
+      "type": "integer"
+    },
+    "supports": {
+      "item": {
+        "$ref": "http://localhost:8800/supports/any.schema.json"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "name",
+    "mass",
+    "radHard",
+    "loadLimit"
+  ],
+  "title": "Freighter",
+  "type": "object"
 }

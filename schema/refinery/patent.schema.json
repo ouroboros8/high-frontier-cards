@@ -1,0 +1,38 @@
+{
+  "$id": "http://localhost:8800/refinery/patent.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "back": {
+      "$ref": "http://localhost:8800/refinery/black-side.schema.json"
+    },
+    "cardId": {
+      "type": "integer"
+    },
+    "front": {
+      "$ref": "http://localhost:8800/refinery/white-side.schema.json"
+    },
+    "spectralType": {
+      "enum": [
+        "C",
+        "S",
+        "M",
+        "V",
+        "D",
+        "H"
+      ]
+    },
+    "type": {
+      "const": "refinery"
+    }
+  },
+  "required": [
+    "cardId",
+    "type",
+    "spectralType",
+    "front",
+    "back"
+  ],
+  "title": "Refinery",
+  "type": "object"
+}
