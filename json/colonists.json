@@ -1,1 +1,744 @@
-[{"cardId": 0, "deck": "Colonists", "front": {"name": "Babbage Halbonauts", "specialty": "Engineer", "mass": 2, "radHard": 5, "airEater": false, "bonusPivots": 0, "ISRU": {"rating": 4, "platforms": ["buggy"]}}, "back": {"name": "Utility Fog Halbonaut", "specialty": "Engineer", "mass": 2, "radHard": 5, "airEater": false, "bonusPivots": 0, "ability": "All of your stacks are Glitch-free.", "future": "UPLIFT FUTURE: Req = Robots not Emancipated, Human at a promoted Bernal & spend 20 Aqua. Effects = Every Robot becomes Emancipated, Casus belli for War, 12 VP.", "ISRU": {"rating": 2, "platforms": ["buggy"]}}, "spectralType": "H", "promotionColony": "D"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Biomechs", "specialty": "Miner", "ideology": "Unity", "mass": 2, "radHard": 4, "airEater": false, "bonusPivots": 0, "ISRU": {"rating": 3, "platforms": ["buggy"]}}, "back": {"name": "Group Mind Immortalists", "specialty": "Miner", "ideology": "Unity", "mass": 2, "radHard": 5, "airEater": false, "bonusPivots": 0, "ability": "May perform the faction privileges on both sides of your Crew card.", "future": "PAN SAPIENS FUTURE: Req = Have 3 Factories connected to Space Elevators. Effect = Casus belli for War. (Endgame) +2 VP for each glory chit owned.", "ISRU": {"rating": 2, "platforms": ["buggy"]}}, "promotionColony": "H"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Botany Bay Convicts", "specialty": "Miner", "ideology": "Authority", "mass": 2, "radHard": 4, "airEater": false, "bonusPivots": 0, "ISRU": {"rating": 4, "platforms": ["buggy"]}}, "back": {"name": "Soldier Caste", "specialty": "Miner", "ideology": "Authority", "mass": 2, "radHard": 9, "airEater": false, "bonusPivots": 0, "ability": "All your Humans can commit Felonies, even if defending Humans are present.", "future": "SECESSION FUTURE: Req = 2 Promoted Human Colonists at an Anchored Bernal with Dirtside 5+. Effects = Casus belli for War, 10 VP.", "ISRU": {"rating": 2, "platforms": ["raygun", "buggy"]}, "supports": [{"type": "reactor", "subtypes": ["\ud83d\udca3"]}]}, "promotionColony": "H"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Boyle Engineering Collective", "specialty": "Prospector", "ideology": "Unity", "mass": 3, "radHard": 5, "airEater": false, "bonusPivots": 0, "ISRU": {"rating": 3, "platforms": ["buggy"]}}, "back": {"name": "Martian Assembly", "specialty": "Prospector", "ideology": "Unity", "mass": 3, "radHard": 6, "airEater": false, "bonusPivots": 0, "ability": "Acts as a Freighter when building a Space Elevator.", "future": "BEANSTALK FUTURE: Req = Have 3+ Space Elevators built by any player. Effect (Endgame) = +3 VP for each Factory connected to a Space Elevator.", "ISRU": {"rating": 2, "platforms": ["buggy"]}}, "promotionColony": "Atmospheric"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Calypso 2 Seed Sail", "specialty": "Prospector", "ideology": "Equality", "mass": 1, "radHard": 3, "airEater": false, "bonusPivots": 1, "ability": "Can't enter aerobrakes.", "thrustTriangle": {"thrust": 0, "fuelConsumption": "0", "fuelType": "water", "afterburn": 0, "push": true, "solar": true}, "ISRU": {"rating": 4, "platforms": ["raygun", "missile"]}}, "back": {"name": "Wet-Nano Seed Sail", "specialty": "Prospector", "ideology": "Equality", "mass": 1, "radHard": 5, "airEater": false, "bonusPivots": 1, "ability": "-2 to Colocated size rolls on Synodic Comets. Can't enter aerobrakes.", "future": "NEW VENUS FUTURE: Req = Decommission operational 7+ net thrust thruster on industrialized Synodic Comet (yours). 12 VP + (Endgame) remove all tokens on Venus & comet.", "thrustTriangle": {"thrust": 1, "fuelConsumption": "0", "fuelType": "water", "afterburn": 0, "push": true, "solar": true}, "ISRU": {"rating": 1, "platforms": ["raygun", "missile"]}}, "promotionColony": "Astrobiology"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Heavy Water Survivalists", "specialty": "Engineer", "ideology": "Freedom", "mass": 2, "radHard": 5, "airEater": false, "bonusPivots": 0, "ISRU": {"rating": 4, "platforms": ["raygun"]}}, "back": {"name": "New Attica Secessionists", "specialty": "Engineer", "ideology": "Freedom", "mass": 2, "radHard": 6, "airEater": false, "bonusPivots": 0, "ability": "Boost costs are doubled for all your opponents.", "future": "SECESSION FUTURE: Req = 2 Promoted Human Colonists at a promoted Anchored Bernal. Effects = Casus belli for War, 7 VP.", "ISRU": {"rating": 2, "platforms": ["raygun"]}}, "promotionColony": "Submarine"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "House of Saud", "specialty": "Miner", "ideology": "Authority", "mass": 2, "radHard": 3, "airEater": false, "bonusPivots": 0, "ISRU": {"rating": 3, "platforms": ["buggy"]}}, "back": {"name": "Iceworms", "specialty": "Miner", "ideology": "Authority", "mass": 2, "radHard": 4, "airEater": false, "bonusPivots": 0, "ability": "Performs epic hazard operation as a free action, & is not Decommissioned if it fails.", "future": "SUBMARINER FUTURE: Req = Build 3 Submarines. Effect = Doubles your dirtside hydration, not cumulative with other modifiers.", "ISRU": {"rating": 1, "platforms": ["buggy"]}}, "promotionColony": "H"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Juiced Cosmonauts", "specialty": "Prospector", "ideology": "Authority", "mass": 1, "radHard": 4, "airEater": false, "bonusPivots": 0, "thrustTriangle": {"thrust": 10, "fuelConsumption": "4", "fuelType": "water", "afterburn": 1, "push": false, "solar": false}, "ISRU": {"rating": 3, "platforms": ["missile"]}}, "back": {"name": "Rental Body Guild", "specialty": "Prospector", "ideology": "Authority", "mass": 1, "radHard": 6, "airEater": true, "bonusPivots": 0, "ability": "-1 to Colocated size rolls.", "future": "ET LIFE FUTURE: Req = Have 2 or more Astrobiological Colonies. Effect (Endgame): +2 VP per Astrobiological Colony.", "thrustTriangle": {"thrust": 12, "fuelConsumption": "4", "fuelType": "water", "afterburn": 1, "push": false, "solar": false}, "ISRU": {"rating": 2, "platforms": ["missile"]}, "supports": [{"type": "reactor", "subtypes": ["\u223f"]}]}, "promotionColony": "H"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Lloyd's Salvage Co.", "specialty": "Industrialist", "ideology": "Honor", "mass": 1, "radHard": 5, "airEater": false, "bonusPivots": 0, "ISRU": {"rating": 0, "platforms": []}}, "back": {"name": "Svalbard Caretakers", "specialty": "Industrialist", "ideology": "Honor", "mass": 1, "radHard": 6, "airEater": false, "bonusPivots": 0, "ability": "-1 on all size rolls when prospecting Synodic Sites.", "future": "DYSON BUBBLE FUTURE: Req = Both Sites of Mercury industrialized by any player. Effects = 5 VP per Factory owned on Mercury.", "ISRU": {"rating": 0, "platforms": []}}, "promotionColony": "Astrobiology"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Malcolm", "specialty": "Industrialist", "ideology": "Freedom", "mass": 1, "radHard": 3, "airEater": false, "bonusPivots": 0, "ISRU": {"rating": 0, "platforms": []}}, "back": {"name": "Renaissance Man", "specialty": "Industrialist", "ideology": "Freedom", "mass": 1, "radHard": 4, "airEater": false, "bonusPivots": 0, "ability": "If initiating a research auction, can search through one patent deck and choose the card to be auctioned.", "future": "ARTIFICIAL CONSCIOUSNESS FUTURE: Req = 2 promoted Colonists at an Astrobiology Dirtside. Effects = May free market any number of cards, 10 VP.", "ISRU": {"rating": 0, "platforms": []}}, "promotionColony": "H"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Microgravity Pantrophists", "specialty": "Engineer", "ideology": "Honor", "mass": 3, "radHard": 5, "airEater": false, "bonusPivots": 0, "ISRU": {"rating": 0, "platforms": []}}, "back": {"name": "Blue Goo Sybonts", "specialty": "Engineer", "ideology": "Honor", "mass": 3, "radHard": 6, "airEater": false, "bonusPivots": 0, "ability": "Can produce ET products of Spectral Type C at any Factory.", "future": "SETI FUTURE: Req = Industrialize 2 Jovian Tojans, 1 each in the Greek & Trojan camps. Effects = As a free action perform 1 inspiration + 1 homestead, 10 VP.", "ISRU": {"rating": 0, "platforms": []}}, "promotionColony": "H"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Programmable Matter", "specialty": "Prospector", "mass": 1, "radHard": 4, "airEater": false, "bonusPivots": 0, "thrustTriangle": {"thrust": 2, "fuelConsumption": "4", "fuelType": "water", "afterburn": 1, "push": true, "solar": false}, "ISRU": {"rating": 3, "platforms": ["missile"]}, "supports": [{"type": "reactor", "subtypes": ["\u223f"]}]}, "back": {"name": "Neumann Matter", "specialty": "Prospector", "mass": 1, "radHard": 5, "airEater": false, "bonusPivots": 0, "ability": "All of your stacks are Glitch-free.", "future": "UPLIFT FUTURE: Req = Robots not Emancipated, Human at a promoted Bernal & spend 20 Aqua. Effects = Every Robot becomes Emancipated, Casus belli for War, 12 VP.", "thrustTriangle": {"thrust": 4, "fuelConsumption": "4", "fuelType": "water", "afterburn": 1, "push": true, "solar": false}, "ISRU": {"rating": 1, "platforms": ["missile"]}, "supports": [{"type": "reactor", "subtypes": ["\u223f"]}]}, "spectralType": "D", "promotionColony": "D"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Rock Rats Miners' Union", "specialty": "Miner", "ideology": "Equality", "mass": 3, "radHard": 5, "airEater": true, "bonusPivots": 0, "ISRU": {"rating": 3, "platforms": ["raygun"]}, "supports": [{"type": "reactor", "subtypes": ["\ud83d\udca3"]}]}, "back": {"name": "Alchemist Aviatrices", "specialty": "Miner", "ideology": "Equality", "mass": 3, "radHard": 6, "airEater": false, "bonusPivots": 0, "ability": "During Factory Refuel, double the amount of isotope fuel.", "future": "AEROSTAT FUTURE: Req = Promoted Bernal with Aerostat Dirtside. Effects = Can homestead as a free action, 14 VP.", "ISRU": {"rating": 0, "platforms": ["raygun"]}, "supports": [{"type": "reactor", "subtypes": ["\ud83d\udca3"]}]}, "promotionColony": "H"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Security System", "specialty": "Industrialist", "mass": 1, "radHard": 4, "airEater": false, "bonusPivots": 0, "ISRU": {"rating": 0, "platforms": []}}, "back": {"name": "Frankenstein Navigator", "specialty": "Industrialist", "mass": 1, "radHard": 5, "airEater": true, "bonusPivots": 0, "ability": "FINAO costs are halved (drop fractions).", "future": "UPLIFT FUTURE: Req = Robots not Emancipated, Human at a promoted Bernal & spend 20 Aqua. Effects = Every Robot becomes Emancipated, Casus belli for War, 12 VP.", "ISRU": {"rating": 0, "platforms": []}, "supports": [{"type": "reactor", "subtypes": ["X"]}]}, "spectralType": "D", "promotionColony": "D"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Siren Cybernautics Inc.", "specialty": "Engineer", "ideology": "Equality", "mass": 3, "radHard": 5, "airEater": true, "bonusPivots": 0, "ISRU": {"rating": 0, "platforms": []}}, "back": {"name": "Josephson Implants", "specialty": "Engineer", "ideology": "Equality", "mass": 3, "radHard": 6, "airEater": true, "bonusPivots": 0, "ability": "FINAO costs are halved (drop fractions).", "future": "SUPREME CULT FUTURE: Req = Active Law in authority. Effects (Module 0) = May lobby w/o removing the delegate used. All Seniority Disks migrate to authority. (Endgame): 10 VP.", "ISRU": {"rating": 0, "platforms": []}}, "promotionColony": "Submarine"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Smart Pets", "specialty": "Miner", "mass": 0, "radHard": 3, "airEater": false, "bonusPivots": 0, "ISRU": {"rating": 3, "platforms": ["buggy"]}}, "back": {"name": "Creeper Neogen", "specialty": "Miner", "mass": 0, "radHard": 6, "airEater": false, "bonusPivots": 0, "ability": "All of your stacks are Glitch-free.", "future": "UPLIFT FUTURE: Req = Robots not Emancipated, Human at a promoted Bernal & spend 20 Aqua. Effects = Every Robot becomes Emancipated, Casus belli for War, 12 VP.", "ISRU": {"rating": 2, "platforms": ["buggy"]}}, "spectralType": "D", "promotionColony": "D"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Transorbital Railworkers", "specialty": "Engineer", "ideology": "Centrist", "mass": 2, "radHard": 4, "airEater": false, "bonusPivots": 0, "ISRU": {"rating": 0, "platforms": []}}, "back": {"name": "Kaluga Naniteers", "specialty": "Engineer", "ideology": "Centrist", "mass": 2, "radHard": 5, "airEater": false, "bonusPivots": 0, "ability": "Your Aqua from a Free Market is doubled.", "future": "TNO FUTURE: Req = Industrialize 2 Sites in the Neptune Zone. Effects = Can homestead as a free action, 12 VP.", "ISRU": {"rating": 0, "platforms": []}}, "promotionColony": "H"}, {"cardId": 0, "deck": "Colonists", "front": {"name": "Vatican Observers", "specialty": "Industrialist", "ideology": "Centrist", "mass": 1, "radHard": 4, "airEater": false, "bonusPivots": 0, "ISRU": {"rating": 0, "platforms": []}}, "back": {"name": "Eugenic Pilgrims", "specialty": "Industrialist", "ideology": "Centrist", "mass": 1, "radHard": 5, "airEater": false, "bonusPivots": 0, "ability": "Faction privilege not lost in Anarchy. -1 to Colocated size rolls on Synodic Comets.", "future": "FOOTFALL FUTURE: Req = Decommission operational 7+ net thrust thruster on Industrialized Synodic Comet (yours). Effects = 10 VP + Casus belli. (Endgame) All tokens on the comet eliminated.", "ISRU": {"rating": 0, "platforms": []}}, "promotionColony": "Astrobiology"}]
+[
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Babbage Halbonauts",
+      "specialty": "Engineer",
+      "mass": 2,
+      "radHard": 5,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 4,
+        "platforms": [
+          "buggy"
+        ]
+      }
+    },
+    "back": {
+      "name": "Utility Fog Halbonaut",
+      "specialty": "Engineer",
+      "mass": 2,
+      "radHard": 5,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ability": "All of your stacks are Glitch-free.",
+      "future": "UPLIFT FUTURE: Req = Robots not Emancipated, Human at a promoted Bernal & spend 20 Aqua. Effects = Every Robot becomes Emancipated, Casus belli for War, 12 VP.",
+      "ISRU": {
+        "rating": 2,
+        "platforms": [
+          "buggy"
+        ]
+      }
+    },
+    "spectralType": "H",
+    "promotionColony": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Biomechs",
+      "specialty": "Miner",
+      "ideology": "Unity",
+      "mass": 2,
+      "radHard": 4,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 3,
+        "platforms": [
+          "buggy"
+        ]
+      }
+    },
+    "back": {
+      "name": "Group Mind Immortalists",
+      "specialty": "Miner",
+      "ideology": "Unity",
+      "mass": 2,
+      "radHard": 5,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ability": "May perform the faction privileges on both sides of your Crew card.",
+      "future": "PAN SAPIENS FUTURE: Req = Have 3 Factories connected to Space Elevators. Effect = Casus belli for War. (Endgame) +2 VP for each glory chit owned.",
+      "ISRU": {
+        "rating": 2,
+        "platforms": [
+          "buggy"
+        ]
+      }
+    },
+    "promotionColony": "H"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Botany Bay Convicts",
+      "specialty": "Miner",
+      "ideology": "Authority",
+      "mass": 2,
+      "radHard": 4,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 4,
+        "platforms": [
+          "buggy"
+        ]
+      }
+    },
+    "back": {
+      "name": "Soldier Caste",
+      "specialty": "Miner",
+      "ideology": "Authority",
+      "mass": 2,
+      "radHard": 9,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ability": "All your Humans can commit Felonies, even if defending Humans are present.",
+      "future": "SECESSION FUTURE: Req = 2 Promoted Human Colonists at an Anchored Bernal with Dirtside 5+. Effects = Casus belli for War, 10 VP.",
+      "ISRU": {
+        "rating": 2,
+        "platforms": [
+          "raygun",
+          "buggy"
+        ]
+      },
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣"
+          ]
+        }
+      ]
+    },
+    "promotionColony": "H"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Boyle Engineering Collective",
+      "specialty": "Prospector",
+      "ideology": "Unity",
+      "mass": 3,
+      "radHard": 5,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 3,
+        "platforms": [
+          "buggy"
+        ]
+      }
+    },
+    "back": {
+      "name": "Martian Assembly",
+      "specialty": "Prospector",
+      "ideology": "Unity",
+      "mass": 3,
+      "radHard": 6,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ability": "Acts as a Freighter when building a Space Elevator.",
+      "future": "BEANSTALK FUTURE: Req = Have 3+ Space Elevators built by any player. Effect (Endgame) = +3 VP for each Factory connected to a Space Elevator.",
+      "ISRU": {
+        "rating": 2,
+        "platforms": [
+          "buggy"
+        ]
+      }
+    },
+    "promotionColony": "Atmospheric"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Calypso 2 Seed Sail",
+      "specialty": "Prospector",
+      "ideology": "Equality",
+      "mass": 1,
+      "radHard": 3,
+      "airEater": false,
+      "bonusPivots": 1,
+      "ability": "Can't enter aerobrakes.",
+      "thrustTriangle": {
+        "thrust": 0,
+        "fuelConsumption": "0",
+        "fuelType": "water",
+        "afterburn": 0,
+        "push": true,
+        "solar": true
+      },
+      "ISRU": {
+        "rating": 4,
+        "platforms": [
+          "raygun",
+          "missile"
+        ]
+      }
+    },
+    "back": {
+      "name": "Wet-Nano Seed Sail",
+      "specialty": "Prospector",
+      "ideology": "Equality",
+      "mass": 1,
+      "radHard": 5,
+      "airEater": false,
+      "bonusPivots": 1,
+      "ability": "-2 to Colocated size rolls on Synodic Comets. Can't enter aerobrakes.",
+      "future": "NEW VENUS FUTURE: Req = Decommission operational 7+ net thrust thruster on industrialized Synodic Comet (yours). 12 VP + (Endgame) remove all tokens on Venus & comet.",
+      "thrustTriangle": {
+        "thrust": 1,
+        "fuelConsumption": "0",
+        "fuelType": "water",
+        "afterburn": 0,
+        "push": true,
+        "solar": true
+      },
+      "ISRU": {
+        "rating": 1,
+        "platforms": [
+          "raygun",
+          "missile"
+        ]
+      }
+    },
+    "promotionColony": "Astrobiology"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Heavy Water Survivalists",
+      "specialty": "Engineer",
+      "ideology": "Freedom",
+      "mass": 2,
+      "radHard": 5,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 4,
+        "platforms": [
+          "raygun"
+        ]
+      }
+    },
+    "back": {
+      "name": "New Attica Secessionists",
+      "specialty": "Engineer",
+      "ideology": "Freedom",
+      "mass": 2,
+      "radHard": 6,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ability": "Boost costs are doubled for all your opponents.",
+      "future": "SECESSION FUTURE: Req = 2 Promoted Human Colonists at a promoted Anchored Bernal. Effects = Casus belli for War, 7 VP.",
+      "ISRU": {
+        "rating": 2,
+        "platforms": [
+          "raygun"
+        ]
+      }
+    },
+    "promotionColony": "Submarine"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "House of Saud",
+      "specialty": "Miner",
+      "ideology": "Authority",
+      "mass": 2,
+      "radHard": 3,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 3,
+        "platforms": [
+          "buggy"
+        ]
+      }
+    },
+    "back": {
+      "name": "Iceworms",
+      "specialty": "Miner",
+      "ideology": "Authority",
+      "mass": 2,
+      "radHard": 4,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ability": "Performs epic hazard operation as a free action, & is not Decommissioned if it fails.",
+      "future": "SUBMARINER FUTURE: Req = Build 3 Submarines. Effect = Doubles your dirtside hydration, not cumulative with other modifiers.",
+      "ISRU": {
+        "rating": 1,
+        "platforms": [
+          "buggy"
+        ]
+      }
+    },
+    "promotionColony": "H"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Juiced Cosmonauts",
+      "specialty": "Prospector",
+      "ideology": "Authority",
+      "mass": 1,
+      "radHard": 4,
+      "airEater": false,
+      "bonusPivots": 0,
+      "thrustTriangle": {
+        "thrust": 10,
+        "fuelConsumption": "4",
+        "fuelType": "water",
+        "afterburn": 1,
+        "push": false,
+        "solar": false
+      },
+      "ISRU": {
+        "rating": 3,
+        "platforms": [
+          "missile"
+        ]
+      }
+    },
+    "back": {
+      "name": "Rental Body Guild",
+      "specialty": "Prospector",
+      "ideology": "Authority",
+      "mass": 1,
+      "radHard": 6,
+      "airEater": true,
+      "bonusPivots": 0,
+      "ability": "-1 to Colocated size rolls.",
+      "future": "ET LIFE FUTURE: Req = Have 2 or more Astrobiological Colonies. Effect (Endgame): +2 VP per Astrobiological Colony.",
+      "thrustTriangle": {
+        "thrust": 12,
+        "fuelConsumption": "4",
+        "fuelType": "water",
+        "afterburn": 1,
+        "push": false,
+        "solar": false
+      },
+      "ISRU": {
+        "rating": 2,
+        "platforms": [
+          "missile"
+        ]
+      },
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿"
+          ]
+        }
+      ]
+    },
+    "promotionColony": "H"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Lloyd's Salvage Co.",
+      "specialty": "Industrialist",
+      "ideology": "Individuality",
+      "mass": 1,
+      "radHard": 5,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 0,
+        "platforms": []
+      }
+    },
+    "back": {
+      "name": "Svalbard Caretakers",
+      "specialty": "Industrialist",
+      "ideology": "Individuality",
+      "mass": 1,
+      "radHard": 6,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ability": "-1 on all size rolls when prospecting Synodic Sites.",
+      "future": "DYSON BUBBLE FUTURE: Req = Both Sites of Mercury industrialized by any player. Effects = 5 VP per Factory owned on Mercury.",
+      "ISRU": {
+        "rating": 0,
+        "platforms": []
+      }
+    },
+    "promotionColony": "Astrobiology"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Malcolm",
+      "specialty": "Industrialist",
+      "ideology": "Freedom",
+      "mass": 1,
+      "radHard": 3,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 0,
+        "platforms": []
+      }
+    },
+    "back": {
+      "name": "Renaissance Man",
+      "specialty": "Industrialist",
+      "ideology": "Freedom",
+      "mass": 1,
+      "radHard": 4,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ability": "If initiating a research auction, can search through one patent deck and choose the card to be auctioned.",
+      "future": "ARTIFICIAL CONSCIOUSNESS FUTURE: Req = 2 promoted Colonists at an Astrobiology Dirtside. Effects = May free market any number of cards, 10 VP.",
+      "ISRU": {
+        "rating": 0,
+        "platforms": []
+      }
+    },
+    "promotionColony": "H"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Microgravity Pantrophists",
+      "specialty": "Engineer",
+      "ideology": "Individuality",
+      "mass": 3,
+      "radHard": 5,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 0,
+        "platforms": []
+      }
+    },
+    "back": {
+      "name": "Blue Goo Sybonts",
+      "specialty": "Engineer",
+      "ideology": "Individuality",
+      "mass": 3,
+      "radHard": 6,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ability": "Can produce ET products of Spectral Type C at any Factory.",
+      "future": "SETI FUTURE: Req = Industrialize 2 Jovian Tojans, 1 each in the Greek & Trojan camps. Effects = As a free action perform 1 inspiration + 1 homestead, 10 VP.",
+      "ISRU": {
+        "rating": 0,
+        "platforms": []
+      }
+    },
+    "promotionColony": "H"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Programmable Matter",
+      "specialty": "Prospector",
+      "mass": 1,
+      "radHard": 4,
+      "airEater": false,
+      "bonusPivots": 0,
+      "thrustTriangle": {
+        "thrust": 2,
+        "fuelConsumption": "4",
+        "fuelType": "water",
+        "afterburn": 1,
+        "push": true,
+        "solar": false
+      },
+      "ISRU": {
+        "rating": 3,
+        "platforms": [
+          "missile"
+        ]
+      },
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Neumann Matter",
+      "specialty": "Prospector",
+      "mass": 1,
+      "radHard": 5,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ability": "All of your stacks are Glitch-free.",
+      "future": "UPLIFT FUTURE: Req = Robots not Emancipated, Human at a promoted Bernal & spend 20 Aqua. Effects = Every Robot becomes Emancipated, Casus belli for War, 12 VP.",
+      "thrustTriangle": {
+        "thrust": 4,
+        "fuelConsumption": "4",
+        "fuelType": "water",
+        "afterburn": 1,
+        "push": true,
+        "solar": false
+      },
+      "ISRU": {
+        "rating": 1,
+        "platforms": [
+          "missile"
+        ]
+      },
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿"
+          ]
+        }
+      ]
+    },
+    "spectralType": "D",
+    "promotionColony": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Rock Rats Miners' Union",
+      "specialty": "Miner",
+      "ideology": "Equality",
+      "mass": 3,
+      "radHard": 5,
+      "airEater": true,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 3,
+        "platforms": [
+          "raygun"
+        ]
+      },
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Alchemist Aviatrices",
+      "specialty": "Miner",
+      "ideology": "Equality",
+      "mass": 3,
+      "radHard": 6,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ability": "During Factory Refuel, double the amount of isotope fuel.",
+      "future": "AEROSTAT FUTURE: Req = Promoted Bernal with Aerostat Dirtside. Effects = Can homestead as a free action, 14 VP.",
+      "ISRU": {
+        "rating": 0,
+        "platforms": [
+          "raygun"
+        ]
+      },
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣"
+          ]
+        }
+      ]
+    },
+    "promotionColony": "H"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Security System",
+      "specialty": "Industrialist",
+      "mass": 1,
+      "radHard": 4,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 0,
+        "platforms": []
+      }
+    },
+    "back": {
+      "name": "Frankenstein Navigator",
+      "specialty": "Industrialist",
+      "mass": 1,
+      "radHard": 5,
+      "airEater": true,
+      "bonusPivots": 0,
+      "ability": "FINAO costs are halved (drop fractions).",
+      "future": "UPLIFT FUTURE: Req = Robots not Emancipated, Human at a promoted Bernal & spend 20 Aqua. Effects = Every Robot becomes Emancipated, Casus belli for War, 12 VP.",
+      "ISRU": {
+        "rating": 0,
+        "platforms": []
+      },
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "X"
+          ]
+        }
+      ]
+    },
+    "spectralType": "D",
+    "promotionColony": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Siren Cybernautics Inc.",
+      "specialty": "Engineer",
+      "ideology": "Equality",
+      "mass": 3,
+      "radHard": 5,
+      "airEater": true,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 0,
+        "platforms": []
+      }
+    },
+    "back": {
+      "name": "Josephson Implants",
+      "specialty": "Engineer",
+      "ideology": "Equality",
+      "mass": 3,
+      "radHard": 6,
+      "airEater": true,
+      "bonusPivots": 0,
+      "ability": "FINAO costs are halved (drop fractions).",
+      "future": "SUPREME CULT FUTURE: Req = Active Law in authority. Effects (Module 0) = May lobby w/o removing the delegate used. All Seniority Disks migrate to authority. (Endgame): 10 VP.",
+      "ISRU": {
+        "rating": 0,
+        "platforms": []
+      }
+    },
+    "promotionColony": "Submarine"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Smart Pets",
+      "specialty": "Miner",
+      "mass": 0,
+      "radHard": 3,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 3,
+        "platforms": [
+          "buggy"
+        ]
+      }
+    },
+    "back": {
+      "name": "Creeper Neogen",
+      "specialty": "Miner",
+      "mass": 0,
+      "radHard": 6,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ability": "All of your stacks are Glitch-free.",
+      "future": "UPLIFT FUTURE: Req = Robots not Emancipated, Human at a promoted Bernal & spend 20 Aqua. Effects = Every Robot becomes Emancipated, Casus belli for War, 12 VP.",
+      "ISRU": {
+        "rating": 2,
+        "platforms": [
+          "buggy"
+        ]
+      }
+    },
+    "spectralType": "D",
+    "promotionColony": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Transorbital Railworkers",
+      "specialty": "Engineer",
+      "ideology": "Honor",
+      "mass": 2,
+      "radHard": 4,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 0,
+        "platforms": []
+      }
+    },
+    "back": {
+      "name": "Kaluga Naniteers",
+      "specialty": "Engineer",
+      "ideology": "Honor",
+      "mass": 2,
+      "radHard": 5,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ability": "Your Aqua from a Free Market is doubled.",
+      "future": "TNO FUTURE: Req = Industrialize 2 Sites in the Neptune Zone. Effects = Can homestead as a free action, 12 VP.",
+      "ISRU": {
+        "rating": 0,
+        "platforms": []
+      }
+    },
+    "promotionColony": "H"
+  },
+  {
+    "cardId": 0,
+    "deck": "Colonists",
+    "front": {
+      "name": "Vatican Observers",
+      "specialty": "Industrialist",
+      "ideology": "Honor",
+      "mass": 1,
+      "radHard": 4,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ISRU": {
+        "rating": 0,
+        "platforms": []
+      }
+    },
+    "back": {
+      "name": "Eugenic Pilgrims",
+      "specialty": "Industrialist",
+      "ideology": "Honor",
+      "mass": 1,
+      "radHard": 5,
+      "airEater": false,
+      "bonusPivots": 0,
+      "ability": "Faction privilege not lost in Anarchy. -1 to Colocated size rolls on Synodic Comets.",
+      "future": "FOOTFALL FUTURE: Req = Decommission operational 7+ net thrust thruster on Industrialized Synodic Comet (yours). Effects = 10 VP + Casus belli. (Endgame) All tokens on the comet eliminated.",
+      "ISRU": {
+        "rating": 0,
+        "platforms": []
+      }
+    },
+    "promotionColony": "Astrobiology"
+  }
+]

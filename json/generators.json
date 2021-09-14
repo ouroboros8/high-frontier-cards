@@ -1,1 +1,917 @@
-[{"cardId": 0, "deck": "Generators", "front": {"name": "AMTEC Thermoelectric", "mass": 1, "radHard": 6, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e", "\u27db"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}, "supportRequirements": [{"type": "reactor", "subtypes": ["\u223f"]}, {"type": "cooling", "therms": 1}]}, "back": {"name": "JTEC H2 Thermoelectric", "mass": 1, "radHard": 4, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e", "\u27db"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": true}}, "spectralType": "C"}, {"cardId": 0, "deck": "Generators", "front": {"name": "Brayton Turbine", "mass": 1, "radHard": 5, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e", "\u27db"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}, "supportRequirements": [{"type": "reactor", "subtypes": ["\u223f", "\ud83d\udca3"]}, {"type": "cooling", "therms": 2}]}, "back": {"name": "O'Meara LSP Paralens", "mass": 0, "radHard": 10, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "1/2", "solar": true}}, "spectralType": "C"}, {"cardId": 0, "deck": "Generators", "front": {"name": "Cascade Photovoltaic", "mass": 3, "radHard": 1, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": true}}, "back": {"name": "Buckyball C60 Photovoltaic", "mass": 2, "radHard": 3, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 1, "fuelConsumption": "1/1", "solar": true}}, "spectralType": "C"}, {"cardId": 0, "deck": "Generators", "front": {"name": "Cascade Thermoacoustic", "mass": 0, "radHard": 5, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}, "supportRequirements": [{"type": "reactor", "subtypes": ["\u223f"]}, {"type": "cooling", "therms": 2}]}, "back": {"name": "Dusty Plasma MHD", "mass": 1, "radHard": 6, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}}, "spectralType": "V"}, {"cardId": 0, "deck": "Generators", "front": {"name": "Catalyzed Fission Scintillator", "mass": 0, "radHard": 7, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e", "\u27db"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}, "supportRequirements": [{"type": "reactor", "subtypes": ["X"]}, {"type": "cooling", "therms": 1}]}, "back": {"name": "Diamonoid Electro-Dynamic Tether", "mass": 2, "radHard": 4, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e", "\u27db"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}}, "spectralType": "D"}, {"cardId": 0, "deck": "Generators", "front": {"name": "Ericsson Engine", "mass": 1, "radHard": 5, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}, "supportRequirements": [{"type": "reactor", "subtypes": ["\u223f", "\ud83d\udca3"]}, {"type": "cooling", "therms": 1}]}, "back": {"name": "Nanocomposite Thermoelectric", "mass": 1, "radHard": 5, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 1, "fuelConsumption": "1/1", "solar": false}, "supportRequirements": [{"type": "reactor", "subtypes": ["\u223f", "\ud83d\udca3", "X"]}]}, "spectralType": "C"}, {"cardId": 0, "deck": "Generators", "front": {"name": "Flywheel Compulsator", "mass": 4, "radHard": 4, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e", "\u27db"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": true}}, "back": {"name": "Superconducting Adductor", "mass": 1, "radHard": 4, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e", "\u27db"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}}, "spectralType": "M"}, {"cardId": 0, "deck": "Generators", "front": {"name": "H2-O2 Fuel Cell", "mass": 4, "radHard": 4, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": true}}, "back": {"name": "Microbial Fuel Cell", "mass": 2, "radHard": 5, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e", "\u27db"]}], "movementModifiers": {"thrust": 1, "fuelConsumption": "1/1", "solar": true}}, "spectralType": "C"}, {"cardId": 0, "deck": "Generators", "front": {"name": "In-Core Thermionic", "mass": 0, "radHard": 6, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e", "\u27db"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}, "supportRequirements": [{"type": "reactor", "subtypes": ["\u223f", "\ud83d\udca3"]}, {"type": "cooling", "therms": 2}]}, "back": {"name": "Z-Pinch Microfission", "mass": 2, "radHard": 9, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e", "\u27db"]}], "movementModifiers": {"thrust": 4, "fuelConsumption": "1/1", "solar": false}, "supportRequirements": [{"type": "cooling", "therms": 1}]}, "spectralType": "S"}, {"cardId": 0, "deck": "Generators", "front": {"name": "Magnetoshell Plasma Parachute", "mass": 0, "radHard": 5, "airEater": false, "ability": "This stack can safely enter aerobrakes. Cannot be used to support Bernals or during industrialization.", "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": -2, "fuelConsumption": "1/1", "solar": true}}, "back": {"name": "Granular Rainbow Corral", "mass": 0, "radHard": 10, "airEater": false, "ability": "This stack can safely enter aerobrakes.", "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": true}}, "spectralType": "S"}, {"cardId": 0, "deck": "Generators", "front": {"name": "Marx Capacitor Bank", "mass": 1, "radHard": 4, "airEater": false, "supports": [{"type": "generator", "subtypes": ["\u27db"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "back": {"name": "Casimir Battery", "mass": 0, "radHard": 3, "airEater": false, "supports": [{"type": "generator", "subtypes": ["\u27db"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "spectralType": "M"}, {"cardId": 0, "deck": "Generators", "front": {"name": "Optoelectric Nuclear Battery", "mass": 2, "radHard": 6, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}, "supportRequirements": [{"type": "cooling", "therms": 2}]}, "back": {"name": "Nuclear-Pumped Excimer Flashlamp", "mass": 0, "radHard": 8, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 1, "fuelConsumption": "1/1", "solar": false}, "supportRequirements": [{"type": "reactor", "subtypes": ["\u223f", "\ud83d\udca3"]}, {"type": "cooling", "therms": 3}]}, "spectralType": "V"}, {"cardId": 0, "deck": "Generators", "front": {"name": "Photon Tether Rectenna", "mass": 2, "radHard": 2, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": -1, "fuelConsumption": "1/1", "solar": true}}, "back": {"name": "Palmer LSP Aerosol Lens", "mass": 0, "radHard": 10, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 1, "fuelConsumption": "1/1", "solar": true}}, "spectralType": "V"}, {"cardId": 0, "deck": "Generators", "front": {"name": "Radioisotope Stirling", "mass": 3, "radHard": 4, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": -2, "fuelConsumption": "1/1", "solar": false}}, "back": {"name": "Triggered Decay Nuclear Battery", "mass": 1, "radHard": 6, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e", "\u27db"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}}, "spectralType": "M"}, {"cardId": 0, "deck": "Generators", "front": {"name": "Rankine MHD", "mass": 0, "radHard": 4, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}, "supportRequirements": [{"type": "reactor", "subtypes": ["\u223f", "\ud83d\udca3"]}, {"type": "cooling", "therms": 2}]}, "back": {"name": "MHD Open-Cycle", "mass": 0, "radHard": 4, "airEater": true, "supports": [{"type": "generator", "subtypes": ["e", "\u27db"]}], "movementModifiers": {"thrust": 1, "fuelConsumption": "1/1", "solar": false}, "supportRequirements": [{"type": "reactor", "subtypes": ["\ud83d\udca3"]}]}, "spectralType": "M"}, {"cardId": 0, "deck": "Generators", "front": {"name": "Rankine Solar Dynamic", "mass": 2, "radHard": 4, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": true}, "supportRequirements": [{"type": "cooling", "therms": 1}]}, "back": {"name": "Rankine Multiphase", "mass": 0, "radHard": 4, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e", "\u27db"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": false}, "supportRequirements": [{"type": "reactor", "subtypes": ["\u223f", "\ud83d\udca3", "X"]}]}, "spectralType": "D"}, {"cardId": 0, "deck": "Generators", "front": {"name": "Solar Stirling", "mass": 3, "radHard": 5, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "", "solar": true}, "supportRequirements": [{"type": "cooling", "therms": 1}]}, "back": {"name": "Thermo-Photovoltaic", "mass": 2, "radHard": 4, "airEater": false, "supports": [{"type": "generator", "subtypes": ["e"]}], "movementModifiers": {"thrust": 1, "fuelConsumption": "1/1", "solar": true}}, "spectralType": "C"}]
+[
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "AMTEC Thermoelectric",
+      "mass": 1,
+      "radHard": 6,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e",
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "back": {
+      "name": "JTEC H2 Thermoelectric",
+      "mass": 1,
+      "radHard": 4,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e",
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": true
+      }
+    },
+    "spectralType": "C"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "Brayton Turbine",
+      "mass": 1,
+      "radHard": 5,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e",
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿",
+            "💣"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "back": {
+      "name": "O'Meara LSP Paralens",
+      "mass": 0,
+      "radHard": 10,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "1/2",
+        "solar": true
+      }
+    },
+    "spectralType": "C"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "Cascade Photovoltaic",
+      "mass": 3,
+      "radHard": 1,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": true
+      }
+    },
+    "back": {
+      "name": "Buckyball C60 Photovoltaic",
+      "mass": 2,
+      "radHard": 3,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 1,
+        "fuelConsumption": "1/1",
+        "solar": true
+      }
+    },
+    "spectralType": "C"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "Cascade Thermoacoustic",
+      "mass": 0,
+      "radHard": 5,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "back": {
+      "name": "Dusty Plasma MHD",
+      "mass": 1,
+      "radHard": 6,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      }
+    },
+    "spectralType": "V"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "Catalyzed Fission Scintillator",
+      "mass": 0,
+      "radHard": 7,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e",
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "X"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "back": {
+      "name": "Diamonoid Electro-Dynamic Tether",
+      "mass": 2,
+      "radHard": 4,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e",
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      }
+    },
+    "spectralType": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "Ericsson Engine",
+      "mass": 1,
+      "radHard": 5,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿",
+            "💣"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "back": {
+      "name": "Nanocomposite Thermoelectric",
+      "mass": 1,
+      "radHard": 5,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 1,
+        "fuelConsumption": "1/1",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿",
+            "💣",
+            "X"
+          ]
+        }
+      ]
+    },
+    "spectralType": "C"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "Flywheel Compulsator",
+      "mass": 4,
+      "radHard": 4,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e",
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": true
+      }
+    },
+    "back": {
+      "name": "Superconducting Adductor",
+      "mass": 1,
+      "radHard": 4,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e",
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      }
+    },
+    "spectralType": "M"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "H2-O2 Fuel Cell",
+      "mass": 4,
+      "radHard": 4,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": true
+      }
+    },
+    "back": {
+      "name": "Microbial Fuel Cell",
+      "mass": 2,
+      "radHard": 5,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e",
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 1,
+        "fuelConsumption": "1/1",
+        "solar": true
+      }
+    },
+    "spectralType": "C"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "In-Core Thermionic",
+      "mass": 0,
+      "radHard": 6,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e",
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿",
+            "💣"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "back": {
+      "name": "Z-Pinch Microfission",
+      "mass": 2,
+      "radHard": 9,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e",
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 4,
+        "fuelConsumption": "1/1",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "spectralType": "S"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "Magnetoshell Plasma Parachute",
+      "mass": 0,
+      "radHard": 5,
+      "airEater": false,
+      "ability": "This stack can safely enter aerobrakes. Cannot be used to support Bernals or during industrialization.",
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": -2,
+        "fuelConsumption": "1/1",
+        "solar": true
+      }
+    },
+    "back": {
+      "name": "Granular Rainbow Corral",
+      "mass": 0,
+      "radHard": 10,
+      "airEater": false,
+      "ability": "This stack can safely enter aerobrakes.",
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": true
+      }
+    },
+    "spectralType": "S"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "Marx Capacitor Bank",
+      "mass": 1,
+      "radHard": 4,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Casimir Battery",
+      "mass": 0,
+      "radHard": 3,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "spectralType": "M"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "Optoelectric Nuclear Battery",
+      "mass": 2,
+      "radHard": 6,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "back": {
+      "name": "Nuclear-Pumped Excimer Flashlamp",
+      "mass": 0,
+      "radHard": 8,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 1,
+        "fuelConsumption": "1/1",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿",
+            "💣"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 3
+        }
+      ]
+    },
+    "spectralType": "V"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "Photon Tether Rectenna",
+      "mass": 2,
+      "radHard": 2,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": -1,
+        "fuelConsumption": "1/1",
+        "solar": true
+      }
+    },
+    "back": {
+      "name": "Palmer LSP Aerosol Lens",
+      "mass": 0,
+      "radHard": 10,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 1,
+        "fuelConsumption": "1/1",
+        "solar": true
+      }
+    },
+    "spectralType": "V"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "Radioisotope Stirling",
+      "mass": 3,
+      "radHard": 4,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": -2,
+        "fuelConsumption": "1/1",
+        "solar": false
+      }
+    },
+    "back": {
+      "name": "Triggered Decay Nuclear Battery",
+      "mass": 1,
+      "radHard": 6,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e",
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      }
+    },
+    "spectralType": "M"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "Rankine MHD",
+      "mass": 0,
+      "radHard": 4,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿",
+            "💣"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "back": {
+      "name": "MHD Open-Cycle",
+      "mass": 0,
+      "radHard": 4,
+      "airEater": true,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e",
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 1,
+        "fuelConsumption": "1/1",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣"
+          ]
+        }
+      ]
+    },
+    "spectralType": "M"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "Rankine Solar Dynamic",
+      "mass": 2,
+      "radHard": 4,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": true
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "back": {
+      "name": "Rankine Multiphase",
+      "mass": 0,
+      "radHard": 4,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e",
+            "⟛"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": false
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿",
+            "💣",
+            "X"
+          ]
+        }
+      ]
+    },
+    "spectralType": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "Generators",
+    "front": {
+      "name": "Solar Stirling",
+      "mass": 3,
+      "radHard": 5,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "",
+        "solar": true
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "back": {
+      "name": "Thermo-Photovoltaic",
+      "mass": 2,
+      "radHard": 4,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 1,
+        "fuelConsumption": "1/1",
+        "solar": true
+      }
+    },
+    "spectralType": "C"
+  }
+]

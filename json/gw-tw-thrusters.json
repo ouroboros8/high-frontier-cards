@@ -1,1 +1,343 @@
-[{"cardId": 0, "deck": "GW/TW Thrusters", "front": {"name": "Amat-Catalyzed Fission-Fusion", "mass": 3, "radHard": 9, "thrustTriangle": {"thrust": 10, "fuelConsumption": "1/3", "afterburn": 2, "fuelType": "isotope"}, "supportRequirements": [{"type": "reactor", "subtypes": ["X"]}, {"type": "cooling", "therms": 2}]}, "back": {"name": "Amat-Initiated H-B Magnetic-Inertial", "mass": 1, "radHard": 10, "future": "MINI-BLACK HOLE FUTURE: Req = Industrialized centaur with 10 isotope FTs. Effects = double all isotope refuel, 10 VP.", "thrustTriangle": {"thrust": 8, "fuelConsumption": "0", "afterburn": 5, "fuelType": "isotope"}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}, {"type": "cooling", "therms": 1}]}, "spectralType": "S", "promotionColony": "D"}, {"cardId": 0, "deck": "GW/TW Thrusters", "front": {"name": "Dense Plasma H-B Focus Fusion", "mass": 1, "radHard": 8, "thrustTriangle": {"thrust": 2, "fuelConsumption": "1/10", "afterburn": 5, "fuelType": "isotope"}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}]}, "back": {"name": "Crossfire H-B Focus Fusion", "mass": 1, "radHard": 9, "future": "PROTIUM FUSION FUTURE: Req = Promoted Bernal with H Dirtside. Effects = double all isotope refuel, 10 VP.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "0", "afterburn": 9, "fuelType": "isotope"}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}]}, "spectralType": "D", "promotionColony": "D"}, {"cardId": 0, "deck": "GW/TW Thrusters", "front": {"name": "Levitated Dipole 6Li-H Fusion", "mass": 4, "radHard": 5, "thrustTriangle": {"thrust": 2, "fuelConsumption": "0", "afterburn": 4, "fuelType": "isotope"}, "supportRequirements": [{"type": "cooling", "therms": 1}]}, "back": {"name": "Dusty Plasma", "mass": 2, "radHard": 8, "future": "MASS BEAM FUTURE: Req = Promoted Bernal with Io or Triton Dirtside. Effects = your Powersat adds +2 thrust, 7 VP.", "thrustTriangle": {"thrust": 2, "fuelConsumption": "0", "afterburn": 9, "fuelType": "isotope"}, "supportRequirements": [{"type": "cooling", "therms": 3}]}, "spectralType": "V", "promotionColony": "S"}, {"cardId": 0, "deck": "GW/TW Thrusters", "front": {"name": "Mini-Mag Orion Z-Pinch Fission", "mass": 1, "radHard": 9, "thrustTriangle": {"thrust": 12, "fuelConsumption": "1/3", "afterburn": 0, "fuelType": "isotope"}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}, {"type": "cooling", "therms": 2}]}, "back": {"name": "Solem Medusa Tugged Orion", "mass": 6, "radHard": 9, "future": "LITHIATED AMMONIA ICE STARSHIP FUTURE: Req = Ad astra exit with 10 isotope fuel. Effect = 14 VP.", "thrustTriangle": {"thrust": 9, "fuelConsumption": "0", "afterburn": 3, "fuelType": "isotope"}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}]}, "spectralType": "M", "promotionColony": "D"}, {"cardId": 0, "deck": "GW/TW Thrusters", "front": {"name": "Salt-Water Zubrin", "mass": 1, "radHard": 6, "thrustTriangle": {"thrust": 14, "fuelConsumption": "1/2", "afterburn": 1, "fuelType": "isotope"}, "supportRequirements": [{"type": "cooling", "therms": 5}]}, "back": {"name": "Zubrin-GDM", "mass": 3, "radHard": 8, "future": "SPACEFARING FUTURE: Req = Bernal with 8+ dirtside hydration. Effects = Allowed 1 extra Colonist, 7 VP.", "thrustTriangle": {"thrust": 6, "fuelConsumption": "0", "afterburn": 8, "fuelType": "isotope"}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}, {"type": "cooling", "therms": 4}]}, "spectralType": "S", "promotionColony": "M"}, {"cardId": 0, "deck": "GW/TW Thrusters", "front": {"name": "Spheromak 3He-D Magnetic Fusion", "mass": 4, "radHard": 8, "thrustTriangle": {"thrust": 6, "fuelConsumption": "1/10", "afterburn": 6, "fuelType": "isotope"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}, {"type": "cooling", "therms": 4}]}, "back": {"name": "Colliding FRC 3He-D Fusion", "mass": 3, "radHard": 9, "future": "ENZMANN STARSHIP FUTURE: Req = Ad astra exit with 2 Promoted Colonists + Mobile Factory. Effect = 12 VP.", "thrustTriangle": {"thrust": 4, "fuelConsumption": "0", "afterburn": 10, "fuelType": "isotope"}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}, {"type": "cooling", "therms": 2}]}, "spectralType": "H", "promotionColony": "H"}, {"cardId": 0, "deck": "GW/TW Thrusters", "front": {"name": "VISTA D-T Inertial Fusion", "mass": 5, "radHard": 8, "thrustTriangle": {"thrust": 9, "fuelConsumption": "1/4", "afterburn": 3, "fuelType": "isotope"}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}, {"type": "cooling", "therms": 2}]}, "back": {"name": "Daedalus 3He-D Inertial Fusion", "mass": 5, "radHard": 9, "future": "FUSION CANDLE FUTURE: Req = Triton Colony & Promoted Bernal with Neptune Aerostat Dirtside. Effects = double all isotope refuel, 14 VP.", "thrustTriangle": {"thrust": 11, "fuelConsumption": "0", "afterburn": 8, "fuelType": "isotope"}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}, {"type": "cooling", "therms": 3}]}, "spectralType": "H", "promotionColony": "H"}]
+[
+  {
+    "cardId": 0,
+    "deck": "GW/TW Thrusters",
+    "front": {
+      "name": "Amat-Catalyzed Fission-Fusion",
+      "mass": 3,
+      "radHard": 9,
+      "thrustTriangle": {
+        "thrust": 10,
+        "fuelConsumption": "1/3",
+        "afterburn": 2,
+        "fuelType": "isotope"
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "X"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "back": {
+      "name": "Amat-Initiated H-B Magnetic-Inertial",
+      "mass": 1,
+      "radHard": 10,
+      "future": "MINI-BLACK HOLE FUTURE: Req = Industrialized centaur with 10 isotope FTs. Effects = double all isotope refuel, 10 VP.",
+      "thrustTriangle": {
+        "thrust": 8,
+        "fuelConsumption": "0",
+        "afterburn": 5,
+        "fuelType": "isotope"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "spectralType": "S",
+    "promotionColony": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "GW/TW Thrusters",
+    "front": {
+      "name": "Dense Plasma H-B Focus Fusion",
+      "mass": 1,
+      "radHard": 8,
+      "thrustTriangle": {
+        "thrust": 2,
+        "fuelConsumption": "1/10",
+        "afterburn": 5,
+        "fuelType": "isotope"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Crossfire H-B Focus Fusion",
+      "mass": 1,
+      "radHard": 9,
+      "future": "PROTIUM FUSION FUTURE: Req = Promoted Bernal with H Dirtside. Effects = double all isotope refuel, 10 VP.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "0",
+        "afterburn": 9,
+        "fuelType": "isotope"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        }
+      ]
+    },
+    "spectralType": "D",
+    "promotionColony": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "GW/TW Thrusters",
+    "front": {
+      "name": "Levitated Dipole 6Li-H Fusion",
+      "mass": 4,
+      "radHard": 5,
+      "thrustTriangle": {
+        "thrust": 2,
+        "fuelConsumption": "0",
+        "afterburn": 4,
+        "fuelType": "isotope"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "back": {
+      "name": "Dusty Plasma",
+      "mass": 2,
+      "radHard": 8,
+      "future": "MASS BEAM FUTURE: Req = Promoted Bernal with Io or Triton Dirtside. Effects = your Powersat adds +2 thrust, 7 VP.",
+      "thrustTriangle": {
+        "thrust": 2,
+        "fuelConsumption": "0",
+        "afterburn": 9,
+        "fuelType": "isotope"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 3
+        }
+      ]
+    },
+    "spectralType": "V",
+    "promotionColony": "S"
+  },
+  {
+    "cardId": 0,
+    "deck": "GW/TW Thrusters",
+    "front": {
+      "name": "Mini-Mag Orion Z-Pinch Fission",
+      "mass": 1,
+      "radHard": 9,
+      "thrustTriangle": {
+        "thrust": 12,
+        "fuelConsumption": "1/3",
+        "afterburn": 0,
+        "fuelType": "isotope"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "back": {
+      "name": "Solem Medusa Tugged Orion",
+      "mass": 6,
+      "radHard": 9,
+      "future": "LITHIATED AMMONIA ICE STARSHIP FUTURE: Req = Ad astra exit with 10 isotope fuel. Effect = 14 VP.",
+      "thrustTriangle": {
+        "thrust": 9,
+        "fuelConsumption": "0",
+        "afterburn": 3,
+        "fuelType": "isotope"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        }
+      ]
+    },
+    "spectralType": "M",
+    "promotionColony": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "GW/TW Thrusters",
+    "front": {
+      "name": "Salt-Water Zubrin",
+      "mass": 1,
+      "radHard": 6,
+      "thrustTriangle": {
+        "thrust": 14,
+        "fuelConsumption": "1/2",
+        "afterburn": 1,
+        "fuelType": "isotope"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 5
+        }
+      ]
+    },
+    "back": {
+      "name": "Zubrin-GDM",
+      "mass": 3,
+      "radHard": 8,
+      "future": "SPACEFARING FUTURE: Req = Bernal with 8+ dirtside hydration. Effects = Allowed 1 extra Colonist, 7 VP.",
+      "thrustTriangle": {
+        "thrust": 6,
+        "fuelConsumption": "0",
+        "afterburn": 8,
+        "fuelType": "isotope"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 4
+        }
+      ]
+    },
+    "spectralType": "S",
+    "promotionColony": "M"
+  },
+  {
+    "cardId": 0,
+    "deck": "GW/TW Thrusters",
+    "front": {
+      "name": "Spheromak 3He-D Magnetic Fusion",
+      "mass": 4,
+      "radHard": 8,
+      "thrustTriangle": {
+        "thrust": 6,
+        "fuelConsumption": "1/10",
+        "afterburn": 6,
+        "fuelType": "isotope"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 4
+        }
+      ]
+    },
+    "back": {
+      "name": "Colliding FRC 3He-D Fusion",
+      "mass": 3,
+      "radHard": 9,
+      "future": "ENZMANN STARSHIP FUTURE: Req = Ad astra exit with 2 Promoted Colonists + Mobile Factory. Effect = 12 VP.",
+      "thrustTriangle": {
+        "thrust": 4,
+        "fuelConsumption": "0",
+        "afterburn": 10,
+        "fuelType": "isotope"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "spectralType": "H",
+    "promotionColony": "H"
+  },
+  {
+    "cardId": 0,
+    "deck": "GW/TW Thrusters",
+    "front": {
+      "name": "VISTA D-T Inertial Fusion",
+      "mass": 5,
+      "radHard": 8,
+      "thrustTriangle": {
+        "thrust": 9,
+        "fuelConsumption": "1/4",
+        "afterburn": 3,
+        "fuelType": "isotope"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "back": {
+      "name": "Daedalus 3He-D Inertial Fusion",
+      "mass": 5,
+      "radHard": 9,
+      "future": "FUSION CANDLE FUTURE: Req = Triton Colony & Promoted Bernal with Neptune Aerostat Dirtside. Effects = double all isotope refuel, 14 VP.",
+      "thrustTriangle": {
+        "thrust": 11,
+        "fuelConsumption": "0",
+        "afterburn": 8,
+        "fuelType": "isotope"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 3
+        }
+      ]
+    },
+    "spectralType": "H",
+    "promotionColony": "H"
+  }
+]

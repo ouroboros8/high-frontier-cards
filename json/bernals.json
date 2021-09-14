@@ -1,1 +1,460 @@
-[{"cardId": 0, "deck": "Bernals", "front": {"name": "GEO Elevator Bernal", "mass": 10, "radHard": 6, "ability": "HOME: Boost direct to Home Bernal without doubling boost costs.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "back": {"name": "Space Elevator Lab", "mass": 10, "radHard": 7, "ability": "Your factory-assisted landings/liftoffs anywhere treat lander burns as normal Burn Spaces.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "promotionColony": "Atmospheric"}, {"cardId": 0, "deck": "Bernals", "front": {"name": "L1 Climate Control Bernal", "mass": 10, "radHard": 8, "ability": "HOME: You are always the 1st player, superseding all other claimants.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "back": {"name": "Climate Control Lab", "mass": 12, "radHard": 8, "ability": "+2 VP per Dirtside for this Bernal.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "promotionColony": "Atmospheric"}, {"cardId": 0, "deck": "Bernals", "front": {"name": "L2 Collimator Bernal", "mass": 10, "radHard": 8, "ability": "HOME: Gain the Powersat faction privilege.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "back": {"name": "Collimator Lab", "mass": 10, "radHard": 9, "ability": "Gain the Powersat faction privilege. Powersat push includes a Bonus Pivot.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "promotionColony": "Push"}, {"cardId": 0, "deck": "Bernals", "front": {"name": "L3 Lofstrom Loop Microgravity", "mass": 10, "radHard": 8, "ability": "HOME: Boost direct to Home Bernal without doubling boost costs.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "back": {"name": "Lofstrom Loop Microgravity Lab", "mass": 10, "radHard": 9, "ability": "Your factory-assisted landings/liftoffs anywhere treat lander burns as normal Burn Spaces.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "promotionColony": "Submarine"}, {"cardId": 0, "deck": "Bernals", "front": {"name": "L4 Antimatter Factory", "mass": 10, "radHard": 9, "ability": "HOME: Your Crew has an On-Board Nuclear X reactor.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}, {"type": "cooling", "therms": 2}]}, "back": {"name": "Antimatter Lab", "mass": 10, "radHard": 10, "ability": "Your Crew has an On-Board Nuclear \"ANY\" reactor.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}, {"type": "cooling", "therms": 2}]}, "promotionColony": "M"}, {"cardId": 0, "deck": "Bernals", "front": {"name": "L4s Pharmaceutics Bernal", "mass": 10, "radHard": 6, "ability": "HOME: Gain the Skunkworks faction privilege.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "back": {"name": "Pharmaceutics Lab", "mass": 10, "radHard": 7, "ability": "Gain the Skunkworks faction privilege & impose academia hand limit on all opponents.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "promotionColony": "Astrobiology"}, {"cardId": 0, "deck": "Bernals", "front": {"name": "L5 Solar Cell Factory", "mass": 10, "radHard": 6, "ability": "HOME: +1 to the Net Thrust of your Spacecraft that use Solar-Power.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "back": {"name": "Solar Cell Lab", "mass": 10, "radHard": 8, "ability": "+2 to the Net Thrust of your Spacecraft that use Solar-Power.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "promotionColony": "Push"}, {"cardId": 0, "deck": "Bernals", "front": {"name": "L5s Cancer Hospital", "mass": 10, "radHard": 6, "ability": "HOME: You are immune to budget cuts.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "back": {"name": "Cancer Lab", "mass": 12, "radHard": 7, "ability": "Gain +1 Token VP for each Colony Dome. Your Crew and Human Colonists have a rad-hard of at least 7.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "promotionColony": "Submarine"}, {"cardId": 0, "deck": "Bernals", "front": {"name": "SSO Diplomatic", "mass": 10, "radHard": 6, "ability": "HOME: (Module 0) Your delegates in the Ideology of your Faction color are +1 VP each.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "back": {"name": "Diplomatic Lab", "mass": 10, "radHard": 7, "ability": "(Module 0) Your delegates in the assembly are +1 VP each.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "promotionColony": "Astrobiology"}, {"cardId": 0, "deck": "Bernals", "front": {"name": "Tourism Cycler", "mass": 10, "radHard": 7, "ability": "HOME: Can designate any Spacecraft to forgo Belt Rolls in the Radiation Belts near Earth.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "back": {"name": "Tourism Hotel", "mass": 10, "radHard": 7, "ability": "+2 VP per Dirtside for this Bernal.", "thrustTriangle": {"thrust": 3, "fuelConsumption": "3", "push": true, "fuelType": "dirt"}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "promotionColony": "Atmospheric"}]
+[
+  {
+    "cardId": 0,
+    "deck": "Bernals",
+    "front": {
+      "name": "GEO Elevator Bernal",
+      "mass": 10,
+      "radHard": 6,
+      "ability": "HOME: Boost direct to Home Bernal without doubling boost costs.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Space Elevator Lab",
+      "mass": 10,
+      "radHard": 7,
+      "ability": "Your factory-assisted landings/liftoffs anywhere treat lander burns as normal Burn Spaces.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "promotionColony": "Atmospheric"
+  },
+  {
+    "cardId": 0,
+    "deck": "Bernals",
+    "front": {
+      "name": "L1 Climate Control Bernal",
+      "mass": 10,
+      "radHard": 8,
+      "ability": "HOME: You are always the 1st player, superseding all other claimants.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Climate Control Lab",
+      "mass": 12,
+      "radHard": 8,
+      "ability": "+2 VP per Dirtside for this Bernal.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "promotionColony": "Atmospheric"
+  },
+  {
+    "cardId": 0,
+    "deck": "Bernals",
+    "front": {
+      "name": "L2 Collimator Bernal",
+      "mass": 10,
+      "radHard": 8,
+      "ability": "HOME: Gain the Powersat faction privilege.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Collimator Lab",
+      "mass": 10,
+      "radHard": 9,
+      "ability": "Gain the Powersat faction privilege. Powersat push includes a Bonus Pivot.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "promotionColony": "Push"
+  },
+  {
+    "cardId": 0,
+    "deck": "Bernals",
+    "front": {
+      "name": "L3 Lofstrom Loop Microgravity",
+      "mass": 10,
+      "radHard": 8,
+      "ability": "HOME: Boost direct to Home Bernal without doubling boost costs.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Lofstrom Loop Microgravity Lab",
+      "mass": 10,
+      "radHard": 9,
+      "ability": "Your factory-assisted landings/liftoffs anywhere treat lander burns as normal Burn Spaces.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "promotionColony": "Submarine"
+  },
+  {
+    "cardId": 0,
+    "deck": "Bernals",
+    "front": {
+      "name": "L4 Antimatter Factory",
+      "mass": 10,
+      "radHard": 9,
+      "ability": "HOME: Your Crew has an On-Board Nuclear X reactor.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "back": {
+      "name": "Antimatter Lab",
+      "mass": 10,
+      "radHard": 10,
+      "ability": "Your Crew has an On-Board Nuclear \"ANY\" reactor.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "promotionColony": "M"
+  },
+  {
+    "cardId": 0,
+    "deck": "Bernals",
+    "front": {
+      "name": "L4s Pharmaceutics Bernal",
+      "mass": 10,
+      "radHard": 6,
+      "ability": "HOME: Gain the Skunkworks faction privilege.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Pharmaceutics Lab",
+      "mass": 10,
+      "radHard": 7,
+      "ability": "Gain the Skunkworks faction privilege & impose academia hand limit on all opponents.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "promotionColony": "Astrobiology"
+  },
+  {
+    "cardId": 0,
+    "deck": "Bernals",
+    "front": {
+      "name": "L5 Solar Cell Factory",
+      "mass": 10,
+      "radHard": 6,
+      "ability": "HOME: +1 to the Net Thrust of your Spacecraft that use Solar-Power.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Solar Cell Lab",
+      "mass": 10,
+      "radHard": 8,
+      "ability": "+2 to the Net Thrust of your Spacecraft that use Solar-Power.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "promotionColony": "Push"
+  },
+  {
+    "cardId": 0,
+    "deck": "Bernals",
+    "front": {
+      "name": "L5s Cancer Hospital",
+      "mass": 10,
+      "radHard": 6,
+      "ability": "HOME: You are immune to budget cuts.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Cancer Lab",
+      "mass": 12,
+      "radHard": 7,
+      "ability": "Gain +1 Token VP for each Colony Dome. Your Crew and Human Colonists have a rad-hard of at least 7.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "promotionColony": "Submarine"
+  },
+  {
+    "cardId": 0,
+    "deck": "Bernals",
+    "front": {
+      "name": "SSO Diplomatic",
+      "mass": 10,
+      "radHard": 6,
+      "ability": "HOME: (Module 0) Your delegates in the Ideology of your Faction color are +1 VP each.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Diplomatic Lab",
+      "mass": 10,
+      "radHard": 7,
+      "ability": "(Module 0) Your delegates in the assembly are +1 VP each.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "promotionColony": "Astrobiology"
+  },
+  {
+    "cardId": 0,
+    "deck": "Bernals",
+    "front": {
+      "name": "Tourism Cycler",
+      "mass": 10,
+      "radHard": 7,
+      "ability": "HOME: Can designate any Spacecraft to forgo Belt Rolls in the Radiation Belts near Earth.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Tourism Hotel",
+      "mass": 10,
+      "radHard": 7,
+      "ability": "+2 VP per Dirtside for this Bernal.",
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "3",
+        "push": true,
+        "fuelType": "dirt"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "promotionColony": "Atmospheric"
+  }
+]

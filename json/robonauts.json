@@ -1,1 +1,583 @@
-[{"cardId": 0, "deck": "Robonauts", "front": {"name": "Blackbody-Pumped Laser", "mass": 0, "radHard": 5, "ISRU": {"rating": 2, "platforms": ["raygun"]}, "supportRequirements": [{"type": "reactor", "subtypes": ["\u223f", "\ud83d\udca3"]}, {"type": "cooling", "therms": 1}]}, "back": {"name": "Fissile Aerosol Laser", "mass": 0, "radHard": 7, "ISRU": {"rating": 2, "platforms": ["raygun"]}, "supportRequirements": [{"type": "cooling", "therms": 1}]}, "spectralType": "S"}, {"cardId": 0, "deck": "Robonauts", "front": {"name": "Cat Fusion Z-pinch Torch", "mass": 0, "radHard": 2, "ISRU": {"rating": 2, "platforms": ["buggy"]}, "supportRequirements": [{"type": "reactor", "subtypes": ["X"]}, {"type": "cooling", "therms": 1}]}, "back": {"name": "H-B Cat Inertial", "mass": 2, "radHard": 2, "thrustTriangle": {"thrust": 4, "fuelConsumption": "1/3", "fuelType": "water", "afterburn": 1, "push": false, "solar": false}, "ISRU": {"rating": 0, "platforms": ["missile"]}, "supportRequirements": [{"type": "reactor", "subtypes": ["X"]}, {"type": "cooling", "therms": 1}]}, "spectralType": "D"}, {"cardId": 0, "deck": "Robonauts", "front": {"name": "Flywheel Tractor", "mass": 0, "radHard": 5, "ISRU": {"rating": 3, "platforms": ["buggy"]}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "back": {"name": "Electrophoretic Sandworm", "mass": 1, "radHard": 5, "ISRU": {"rating": 1, "platforms": ["buggy"]}}, "spectralType": "D"}, {"cardId": 0, "deck": "Robonauts", "front": {"name": "Free Electron Laser", "mass": 2, "radHard": 4, "ISRU": {"rating": 1, "platforms": ["raygun"]}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}, {"type": "cooling", "therms": 1}]}, "back": {"name": "Wakefield e-Beam", "mass": 0, "radHard": 5, "thrustTriangle": {"thrust": 4, "fuelConsumption": "2", "fuelType": "dirt", "afterburn": 2, "push": false, "solar": false}, "ISRU": {"rating": 1, "platforms": ["missile"]}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}]}, "spectralType": "S"}, {"cardId": 0, "deck": "Robonauts", "front": {"name": "Kuck Mosquito", "mass": 0, "radHard": 6, "thrustTriangle": {"thrust": 10, "fuelConsumption": "8", "fuelType": "water", "afterburn": 2, "push": false, "solar": false}, "ISRU": {"rating": 3, "platforms": ["missile"]}, "supportRequirements": [{"type": "reactor", "subtypes": ["\ud83d\udca3"]}]}, "back": {"name": "Ablative Laser", "mass": 0, "radHard": 6, "thrustTriangle": {"thrust": 3, "fuelConsumption": "1", "fuelType": "water", "afterburn": 3, "push": true, "solar": true}, "ISRU": {"rating": 2, "platforms": ["missile"]}}, "spectralType": "D"}, {"cardId": 0, "deck": "Robonauts", "front": {"name": "MET Steamer", "mass": 1, "radHard": 4, "thrustTriangle": {"thrust": 5, "fuelConsumption": "4", "fuelType": "water", "afterburn": 1, "push": true, "solar": false}, "ISRU": {"rating": 2, "platforms": ["missile"]}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "back": {"name": "Nanobot", "mass": 0, "radHard": 5, "ISRU": {"rating": 1, "platforms": ["buggy"]}}, "spectralType": "C"}, {"cardId": 0, "deck": "Robonauts", "front": {"name": "Neutral Beam", "mass": 2, "radHard": 5, "ISRU": {"rating": 2, "platforms": ["raygun"]}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}]}, "back": {"name": "D-D Fusion Inertial", "mass": 1, "radHard": 4, "thrustTriangle": {"thrust": 3, "fuelConsumption": "1/2", "fuelType": "water", "afterburn": 1, "push": false, "solar": false}, "ISRU": {"rating": 1, "platforms": ["missile"]}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}, {"type": "cooling", "therms": 2}]}, "spectralType": "S"}, {"cardId": 0, "deck": "Robonauts", "front": {"name": "Nuclear Drill", "mass": 1, "radHard": 6, "thrustTriangle": {"thrust": 5, "fuelConsumption": "4", "fuelType": "water", "afterburn": 1, "push": true, "solar": false}, "ISRU": {"rating": 3, "platforms": ["missile"]}, "supportRequirements": [{"type": "reactor", "subtypes": ["\u223f"]}]}, "back": {"name": "Helical Railgun", "mass": 2, "radHard": 8, "thrustTriangle": {"thrust": 5, "fuelConsumption": "4", "fuelType": "dirt", "afterburn": 0, "push": true, "solar": false}, "ISRU": {"rating": 0, "platforms": ["raygun", "missile"]}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}]}, "spectralType": "D"}, {"cardId": 0, "deck": "Robonauts", "front": {"name": "Phase-Locked Diode Laser", "mass": 1, "radHard": 3, "ISRU": {"rating": 3, "platforms": ["raygun"]}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "back": {"name": "Lorentz-Propelled Microprobe", "mass": 0, "radHard": 3, "ability": "NANITES: One re-roll if fail 1 or more size rolls.", "ISRU": {"rating": 3, "platforms": ["raygun"]}}, "spectralType": "C"}, {"cardId": 0, "deck": "Robonauts", "front": {"name": "Rock Splitter", "mass": 0, "radHard": 5, "ISRU": {"rating": 4, "platforms": ["buggy"]}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "back": {"name": "MagBeam", "mass": 1, "radHard": 5, "ability": "-1 ISRU, +3 thrust if pushed by Powersat.", "thrustTriangle": {"thrust": 4, "fuelConsumption": "1", "fuelType": "water", "afterburn": 1, "push": true, "solar": true}, "ISRU": {"rating": 3, "platforms": ["raygun", "missile"]}}, "spectralType": "V"}, {"cardId": 0, "deck": "Robonauts", "front": {"name": "Solar-Pumped MHD Exciplex Laser", "mass": 3, "radHard": 4, "ISRU": {"rating": 2, "platforms": ["raygun"]}, "supportRequirements": [{"type": "cooling", "therms": 2}]}, "back": {"name": "Quantum Cascade Laser", "mass": 1, "radHard": 5, "ISRU": {"rating": 0, "platforms": ["raygun"]}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}, {"type": "cooling", "therms": 1}]}, "spectralType": "C"}, {"cardId": 0, "deck": "Robonauts", "front": {"name": "Tungsten Resistojet", "mass": 0, "radHard": 5, "thrustTriangle": {"thrust": 5, "fuelConsumption": "4", "fuelType": "water", "afterburn": 1, "push": true, "solar": false}, "ISRU": {"rating": 3, "platforms": ["missile"]}}, "back": {"name": "MITEE Arcjet", "mass": 0, "radHard": 4, "thrustTriangle": {"thrust": 4, "fuelConsumption": "2", "fuelType": "water", "afterburn": 2, "push": true, "solar": false}, "ISRU": {"rating": 1, "platforms": ["missile"]}, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}]}, "spectralType": "M"}]
+[
+  {
+    "cardId": 0,
+    "deck": "Robonauts",
+    "front": {
+      "name": "Blackbody-Pumped Laser",
+      "mass": 0,
+      "radHard": 5,
+      "ISRU": {
+        "rating": 2,
+        "platforms": [
+          "raygun"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿",
+            "💣"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "back": {
+      "name": "Fissile Aerosol Laser",
+      "mass": 0,
+      "radHard": 7,
+      "ISRU": {
+        "rating": 2,
+        "platforms": [
+          "raygun"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "spectralType": "S"
+  },
+  {
+    "cardId": 0,
+    "deck": "Robonauts",
+    "front": {
+      "name": "Cat Fusion Z-pinch Torch",
+      "mass": 0,
+      "radHard": 2,
+      "ISRU": {
+        "rating": 2,
+        "platforms": [
+          "buggy"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "X"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "back": {
+      "name": "H-B Cat Inertial",
+      "mass": 2,
+      "radHard": 2,
+      "thrustTriangle": {
+        "thrust": 4,
+        "fuelConsumption": "1/3",
+        "fuelType": "water",
+        "afterburn": 1,
+        "push": false,
+        "solar": false
+      },
+      "ISRU": {
+        "rating": 0,
+        "platforms": [
+          "missile"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "X"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "spectralType": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "Robonauts",
+    "front": {
+      "name": "Flywheel Tractor",
+      "mass": 0,
+      "radHard": 5,
+      "ISRU": {
+        "rating": 3,
+        "platforms": [
+          "buggy"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Electrophoretic Sandworm",
+      "mass": 1,
+      "radHard": 5,
+      "ISRU": {
+        "rating": 1,
+        "platforms": [
+          "buggy"
+        ]
+      }
+    },
+    "spectralType": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "Robonauts",
+    "front": {
+      "name": "Free Electron Laser",
+      "mass": 2,
+      "radHard": 4,
+      "ISRU": {
+        "rating": 1,
+        "platforms": [
+          "raygun"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "back": {
+      "name": "Wakefield e-Beam",
+      "mass": 0,
+      "radHard": 5,
+      "thrustTriangle": {
+        "thrust": 4,
+        "fuelConsumption": "2",
+        "fuelType": "dirt",
+        "afterburn": 2,
+        "push": false,
+        "solar": false
+      },
+      "ISRU": {
+        "rating": 1,
+        "platforms": [
+          "missile"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        }
+      ]
+    },
+    "spectralType": "S"
+  },
+  {
+    "cardId": 0,
+    "deck": "Robonauts",
+    "front": {
+      "name": "Kuck Mosquito",
+      "mass": 0,
+      "radHard": 6,
+      "thrustTriangle": {
+        "thrust": 10,
+        "fuelConsumption": "8",
+        "fuelType": "water",
+        "afterburn": 2,
+        "push": false,
+        "solar": false
+      },
+      "ISRU": {
+        "rating": 3,
+        "platforms": [
+          "missile"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Ablative Laser",
+      "mass": 0,
+      "radHard": 6,
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "1",
+        "fuelType": "water",
+        "afterburn": 3,
+        "push": true,
+        "solar": true
+      },
+      "ISRU": {
+        "rating": 2,
+        "platforms": [
+          "missile"
+        ]
+      }
+    },
+    "spectralType": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "Robonauts",
+    "front": {
+      "name": "MET Steamer",
+      "mass": 1,
+      "radHard": 4,
+      "thrustTriangle": {
+        "thrust": 5,
+        "fuelConsumption": "4",
+        "fuelType": "water",
+        "afterburn": 1,
+        "push": true,
+        "solar": false
+      },
+      "ISRU": {
+        "rating": 2,
+        "platforms": [
+          "missile"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Nanobot",
+      "mass": 0,
+      "radHard": 5,
+      "ISRU": {
+        "rating": 1,
+        "platforms": [
+          "buggy"
+        ]
+      }
+    },
+    "spectralType": "C"
+  },
+  {
+    "cardId": 0,
+    "deck": "Robonauts",
+    "front": {
+      "name": "Neutral Beam",
+      "mass": 2,
+      "radHard": 5,
+      "ISRU": {
+        "rating": 2,
+        "platforms": [
+          "raygun"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "D-D Fusion Inertial",
+      "mass": 1,
+      "radHard": 4,
+      "thrustTriangle": {
+        "thrust": 3,
+        "fuelConsumption": "1/2",
+        "fuelType": "water",
+        "afterburn": 1,
+        "push": false,
+        "solar": false
+      },
+      "ISRU": {
+        "rating": 1,
+        "platforms": [
+          "missile"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "spectralType": "S"
+  },
+  {
+    "cardId": 0,
+    "deck": "Robonauts",
+    "front": {
+      "name": "Nuclear Drill",
+      "mass": 1,
+      "radHard": 6,
+      "thrustTriangle": {
+        "thrust": 5,
+        "fuelConsumption": "4",
+        "fuelType": "water",
+        "afterburn": 1,
+        "push": true,
+        "solar": false
+      },
+      "ISRU": {
+        "rating": 3,
+        "platforms": [
+          "missile"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Helical Railgun",
+      "mass": 2,
+      "radHard": 8,
+      "thrustTriangle": {
+        "thrust": 5,
+        "fuelConsumption": "4",
+        "fuelType": "dirt",
+        "afterburn": 0,
+        "push": true,
+        "solar": false
+      },
+      "ISRU": {
+        "rating": 0,
+        "platforms": [
+          "raygun",
+          "missile"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        }
+      ]
+    },
+    "spectralType": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "Robonauts",
+    "front": {
+      "name": "Phase-Locked Diode Laser",
+      "mass": 1,
+      "radHard": 3,
+      "ISRU": {
+        "rating": 3,
+        "platforms": [
+          "raygun"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Lorentz-Propelled Microprobe",
+      "mass": 0,
+      "radHard": 3,
+      "ability": "NANITES: One re-roll if fail 1 or more size rolls.",
+      "ISRU": {
+        "rating": 3,
+        "platforms": [
+          "raygun"
+        ]
+      }
+    },
+    "spectralType": "C"
+  },
+  {
+    "cardId": 0,
+    "deck": "Robonauts",
+    "front": {
+      "name": "Rock Splitter",
+      "mass": 0,
+      "radHard": 5,
+      "ISRU": {
+        "rating": 4,
+        "platforms": [
+          "buggy"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "MagBeam",
+      "mass": 1,
+      "radHard": 5,
+      "ability": "-1 ISRU, +3 thrust if pushed by Powersat.",
+      "thrustTriangle": {
+        "thrust": 4,
+        "fuelConsumption": "1",
+        "fuelType": "water",
+        "afterburn": 1,
+        "push": true,
+        "solar": true
+      },
+      "ISRU": {
+        "rating": 3,
+        "platforms": [
+          "raygun",
+          "missile"
+        ]
+      }
+    },
+    "spectralType": "V"
+  },
+  {
+    "cardId": 0,
+    "deck": "Robonauts",
+    "front": {
+      "name": "Solar-Pumped MHD Exciplex Laser",
+      "mass": 3,
+      "radHard": 4,
+      "ISRU": {
+        "rating": 2,
+        "platforms": [
+          "raygun"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "back": {
+      "name": "Quantum Cascade Laser",
+      "mass": 1,
+      "radHard": 5,
+      "ISRU": {
+        "rating": 0,
+        "platforms": [
+          "raygun"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "spectralType": "C"
+  },
+  {
+    "cardId": 0,
+    "deck": "Robonauts",
+    "front": {
+      "name": "Tungsten Resistojet",
+      "mass": 0,
+      "radHard": 5,
+      "thrustTriangle": {
+        "thrust": 5,
+        "fuelConsumption": "4",
+        "fuelType": "water",
+        "afterburn": 1,
+        "push": true,
+        "solar": false
+      },
+      "ISRU": {
+        "rating": 3,
+        "platforms": [
+          "missile"
+        ]
+      }
+    },
+    "back": {
+      "name": "MITEE Arcjet",
+      "mass": 0,
+      "radHard": 4,
+      "thrustTriangle": {
+        "thrust": 4,
+        "fuelConsumption": "2",
+        "fuelType": "water",
+        "afterburn": 2,
+        "push": true,
+        "solar": false
+      },
+      "ISRU": {
+        "rating": 1,
+        "platforms": [
+          "missile"
+        ]
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "e"
+          ]
+        }
+      ]
+    },
+    "spectralType": "M"
+  }
+]

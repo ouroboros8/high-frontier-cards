@@ -1,1 +1,394 @@
-[{"cardId": 0, "deck": "Radiators", "front": {"name": "Bubble Membrane", "lightSide": {"mass": 0, "radHard": 1, "therms": 1}, "heavySide": {"mass": 1, "radHard": 0, "therms": 2}}, "back": {"name": "Electrostatic Membrane", "lightSide": {"mass": 0, "radHard": 3, "therms": 1}, "heavySide": {"mass": 1, "radHard": 2, "therms": 3}}, "spectralType": "C"}, {"cardId": 0, "deck": "Radiators", "front": {"name": "Dielectric X-Ray Window", "lightSide": {"mass": 4, "radHard": 7, "therms": 2}, "heavySide": {"mass": 5, "radHard": 7, "therms": 3}}, "back": {"name": "Graphene Crystal X-Ray Mirror", "lightSide": {"mass": 0, "radHard": 7, "therms": 1}, "heavySide": {"mass": 1, "radHard": 7, "therms": 2}}, "spectralType": "D"}, {"cardId": 0, "deck": "Radiators", "front": {"name": "ETHER Charged Dust", "lightSide": {"mass": 1, "radHard": 1, "therms": 1}, "heavySide": {"mass": 2, "radHard": 1, "therms": 2}}, "back": {"name": "Curie Point", "lightSide": {"mass": 0, "radHard": 5, "therms": 1}, "heavySide": {"mass": 1, "radHard": 3, "therms": 3}}, "spectralType": "M"}, {"cardId": 0, "deck": "Radiators", "front": {"name": "Li Heatsink Fountain", "lightSide": {"mass": 2, "radHard": 6, "therms": 1}, "heavySide": {"mass": 3, "radHard": 6, "therms": 5, "ability": "Switch to light side after 1st use."}}, "back": {"name": "Thermochemical Heatsink Fountain", "lightSide": {"mass": 1, "radHard": 6, "therms": 1}, "heavySide": {"mass": 2, "radHard": 6, "therms": 6, "ability": "Switch to light side after 1st use."}}, "spectralType": "S"}, {"cardId": 0, "deck": "Radiators", "front": {"name": "Magnetocaloric Refrigerator", "lightSide": {"mass": 2, "radHard": 6, "therms": 3, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}], "ability": "This card can cool its own supports."}, "heavySide": {"mass": 3, "radHard": 6, "therms": 4, "supportRequirements": [{"type": "generator", "subtypes": ["e"]}], "ability": "This card can cool its own supports."}}, "back": {"name": "Nuclear Fuel Spin Polarizer", "lightSide": {"mass": 0, "radHard": 5, "therms": 1}, "heavySide": {"mass": 1, "radHard": 4, "therms": 2}}, "spectralType": "S"}, {"cardId": 0, "deck": "Radiators", "front": {"name": "Microtube Array", "lightSide": {"mass": 2, "radHard": 1, "therms": 2}, "heavySide": {"mass": 3, "radHard": 0, "therms": 3}}, "back": {"name": "Marangoni Flow", "lightSide": {"mass": 0, "radHard": 2, "therms": 2}, "heavySide": {"mass": 1, "radHard": 1, "therms": 3}}, "spectralType": "C"}, {"cardId": 0, "deck": "Radiators", "front": {"name": "Mo / Li Heat Pipe", "lightSide": {"mass": 1, "radHard": 2, "therms": 2}, "heavySide": {"mass": 2, "radHard": 1, "therms": 3}}, "back": {"name": "Tin Droplet", "lightSide": {"mass": 0, "radHard": 3, "therms": 2}, "heavySide": {"mass": 1, "radHard": 2, "therms": 3}}, "spectralType": "M"}, {"cardId": 0, "deck": "Radiators", "front": {"name": "Qu Tube", "lightSide": {"mass": 1, "radHard": 4, "therms": 1}, "heavySide": {"mass": 4, "radHard": 2, "therms": 2}}, "back": {"name": "ANDR / In Dream Pipe", "lightSide": {"mass": 0, "radHard": 3, "therms": 2}, "heavySide": {"mass": 1, "radHard": 2, "therms": 3}}, "spectralType": "M"}, {"cardId": 0, "deck": "Radiators", "front": {"name": "SS / NaK Pumped Loop", "lightSide": {"mass": 2, "radHard": 1, "therms": 2}, "heavySide": {"mass": 4, "radHard": 0, "therms": 3}}, "back": {"name": "Hula-Hoop", "lightSide": {"mass": 1, "radHard": 6, "therms": 2}, "heavySide": {"mass": 2, "radHard": 6, "therms": 3}}, "spectralType": "M"}, {"cardId": 0, "deck": "Radiators", "front": {"name": "Salt-Cooled Reflux Tube", "lightSide": {"mass": 3, "radHard": 4, "therms": 2}, "heavySide": {"mass": 4, "radHard": 4, "therms": 3}}, "back": {"name": "Buckytube Filament", "lightSide": {"mass": 0, "radHard": 4, "therms": 2}, "heavySide": {"mass": 1, "radHard": 3, "therms": 3}}, "spectralType": "C"}, {"cardId": 0, "deck": "Radiators", "front": {"name": "Steel / Pb-Bi Pumped Loop", "lightSide": {"mass": 2, "radHard": 3, "therms": 1}, "heavySide": {"mass": 4, "radHard": 2, "therms": 2}}, "back": {"name": "Pulsating Heat Pipe", "lightSide": {"mass": 1, "radHard": 1, "therms": 2}, "heavySide": {"mass": 2, "radHard": 1, "therms": 4}}, "spectralType": "M"}, {"cardId": 0, "deck": "Radiators", "front": {"name": "Ti / K Heat Pipe", "lightSide": {"mass": 2, "radHard": 3, "therms": 1}, "heavySide": {"mass": 4, "radHard": 2, "therms": 2}}, "back": {"name": "Flux-Pinned Superthermal", "lightSide": {"mass": 1, "radHard": 5, "therms": 1}, "heavySide": {"mass": 2, "radHard": 5, "therms": 3}}, "spectralType": "M"}]
+[
+  {
+    "cardId": 0,
+    "deck": "Radiators",
+    "front": {
+      "name": "Bubble Membrane",
+      "lightSide": {
+        "mass": 0,
+        "radHard": 1,
+        "therms": 1
+      },
+      "heavySide": {
+        "mass": 1,
+        "radHard": 0,
+        "therms": 2
+      }
+    },
+    "back": {
+      "name": "Electrostatic Membrane",
+      "lightSide": {
+        "mass": 0,
+        "radHard": 3,
+        "therms": 1
+      },
+      "heavySide": {
+        "mass": 1,
+        "radHard": 2,
+        "therms": 3
+      }
+    },
+    "spectralType": "C"
+  },
+  {
+    "cardId": 0,
+    "deck": "Radiators",
+    "front": {
+      "name": "Dielectric X-Ray Window",
+      "lightSide": {
+        "mass": 4,
+        "radHard": 7,
+        "therms": 2
+      },
+      "heavySide": {
+        "mass": 5,
+        "radHard": 7,
+        "therms": 3
+      }
+    },
+    "back": {
+      "name": "Graphene Crystal X-Ray Mirror",
+      "lightSide": {
+        "mass": 0,
+        "radHard": 7,
+        "therms": 1
+      },
+      "heavySide": {
+        "mass": 1,
+        "radHard": 7,
+        "therms": 2
+      }
+    },
+    "spectralType": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "Radiators",
+    "front": {
+      "name": "ETHER Charged Dust",
+      "lightSide": {
+        "mass": 1,
+        "radHard": 1,
+        "therms": 1
+      },
+      "heavySide": {
+        "mass": 2,
+        "radHard": 1,
+        "therms": 2
+      }
+    },
+    "back": {
+      "name": "Curie Point",
+      "lightSide": {
+        "mass": 0,
+        "radHard": 5,
+        "therms": 1
+      },
+      "heavySide": {
+        "mass": 1,
+        "radHard": 3,
+        "therms": 3
+      }
+    },
+    "spectralType": "M"
+  },
+  {
+    "cardId": 0,
+    "deck": "Radiators",
+    "front": {
+      "name": "Li Heatsink Fountain",
+      "lightSide": {
+        "mass": 2,
+        "radHard": 6,
+        "therms": 1
+      },
+      "heavySide": {
+        "mass": 3,
+        "radHard": 6,
+        "therms": 5,
+        "ability": "Switch to light side after 1st use."
+      }
+    },
+    "back": {
+      "name": "Thermochemical Heatsink Fountain",
+      "lightSide": {
+        "mass": 1,
+        "radHard": 6,
+        "therms": 1
+      },
+      "heavySide": {
+        "mass": 2,
+        "radHard": 6,
+        "therms": 6,
+        "ability": "Switch to light side after 1st use."
+      }
+    },
+    "spectralType": "S"
+  },
+  {
+    "cardId": 0,
+    "deck": "Radiators",
+    "front": {
+      "name": "Magnetocaloric Refrigerator",
+      "lightSide": {
+        "mass": 2,
+        "radHard": 6,
+        "therms": 3,
+        "supportRequirements": [
+          {
+            "type": "generator",
+            "subtypes": [
+              "e"
+            ]
+          }
+        ],
+        "ability": "This card can cool its own supports."
+      },
+      "heavySide": {
+        "mass": 3,
+        "radHard": 6,
+        "therms": 4,
+        "supportRequirements": [
+          {
+            "type": "generator",
+            "subtypes": [
+              "e"
+            ]
+          }
+        ],
+        "ability": "This card can cool its own supports."
+      }
+    },
+    "back": {
+      "name": "Nuclear Fuel Spin Polarizer",
+      "lightSide": {
+        "mass": 0,
+        "radHard": 5,
+        "therms": 1
+      },
+      "heavySide": {
+        "mass": 1,
+        "radHard": 4,
+        "therms": 2
+      }
+    },
+    "spectralType": "S"
+  },
+  {
+    "cardId": 0,
+    "deck": "Radiators",
+    "front": {
+      "name": "Microtube Array",
+      "lightSide": {
+        "mass": 2,
+        "radHard": 1,
+        "therms": 2
+      },
+      "heavySide": {
+        "mass": 3,
+        "radHard": 0,
+        "therms": 3
+      }
+    },
+    "back": {
+      "name": "Marangoni Flow",
+      "lightSide": {
+        "mass": 0,
+        "radHard": 2,
+        "therms": 2
+      },
+      "heavySide": {
+        "mass": 1,
+        "radHard": 1,
+        "therms": 3
+      }
+    },
+    "spectralType": "C"
+  },
+  {
+    "cardId": 0,
+    "deck": "Radiators",
+    "front": {
+      "name": "Mo / Li Heat Pipe",
+      "lightSide": {
+        "mass": 1,
+        "radHard": 2,
+        "therms": 2
+      },
+      "heavySide": {
+        "mass": 2,
+        "radHard": 1,
+        "therms": 3
+      }
+    },
+    "back": {
+      "name": "Tin Droplet",
+      "lightSide": {
+        "mass": 0,
+        "radHard": 3,
+        "therms": 2
+      },
+      "heavySide": {
+        "mass": 1,
+        "radHard": 2,
+        "therms": 3
+      }
+    },
+    "spectralType": "M"
+  },
+  {
+    "cardId": 0,
+    "deck": "Radiators",
+    "front": {
+      "name": "Qu Tube",
+      "lightSide": {
+        "mass": 1,
+        "radHard": 4,
+        "therms": 1
+      },
+      "heavySide": {
+        "mass": 4,
+        "radHard": 2,
+        "therms": 2
+      }
+    },
+    "back": {
+      "name": "ANDR / In Dream Pipe",
+      "lightSide": {
+        "mass": 0,
+        "radHard": 3,
+        "therms": 2
+      },
+      "heavySide": {
+        "mass": 1,
+        "radHard": 2,
+        "therms": 3
+      }
+    },
+    "spectralType": "M"
+  },
+  {
+    "cardId": 0,
+    "deck": "Radiators",
+    "front": {
+      "name": "SS / NaK Pumped Loop",
+      "lightSide": {
+        "mass": 2,
+        "radHard": 1,
+        "therms": 2
+      },
+      "heavySide": {
+        "mass": 4,
+        "radHard": 0,
+        "therms": 3
+      }
+    },
+    "back": {
+      "name": "Hula-Hoop",
+      "lightSide": {
+        "mass": 1,
+        "radHard": 6,
+        "therms": 2
+      },
+      "heavySide": {
+        "mass": 2,
+        "radHard": 6,
+        "therms": 3
+      }
+    },
+    "spectralType": "M"
+  },
+  {
+    "cardId": 0,
+    "deck": "Radiators",
+    "front": {
+      "name": "Salt-Cooled Reflux Tube",
+      "lightSide": {
+        "mass": 3,
+        "radHard": 4,
+        "therms": 2
+      },
+      "heavySide": {
+        "mass": 4,
+        "radHard": 4,
+        "therms": 3
+      }
+    },
+    "back": {
+      "name": "Buckytube Filament",
+      "lightSide": {
+        "mass": 0,
+        "radHard": 4,
+        "therms": 2
+      },
+      "heavySide": {
+        "mass": 1,
+        "radHard": 3,
+        "therms": 3
+      }
+    },
+    "spectralType": "C"
+  },
+  {
+    "cardId": 0,
+    "deck": "Radiators",
+    "front": {
+      "name": "Steel / Pb-Bi Pumped Loop",
+      "lightSide": {
+        "mass": 2,
+        "radHard": 3,
+        "therms": 1
+      },
+      "heavySide": {
+        "mass": 4,
+        "radHard": 2,
+        "therms": 2
+      }
+    },
+    "back": {
+      "name": "Pulsating Heat Pipe",
+      "lightSide": {
+        "mass": 1,
+        "radHard": 1,
+        "therms": 2
+      },
+      "heavySide": {
+        "mass": 2,
+        "radHard": 1,
+        "therms": 4
+      }
+    },
+    "spectralType": "M"
+  },
+  {
+    "cardId": 0,
+    "deck": "Radiators",
+    "front": {
+      "name": "Ti / K Heat Pipe",
+      "lightSide": {
+        "mass": 2,
+        "radHard": 3,
+        "therms": 1
+      },
+      "heavySide": {
+        "mass": 4,
+        "radHard": 2,
+        "therms": 2
+      }
+    },
+    "back": {
+      "name": "Flux-Pinned Superthermal",
+      "lightSide": {
+        "mass": 1,
+        "radHard": 5,
+        "therms": 1
+      },
+      "heavySide": {
+        "mass": 2,
+        "radHard": 5,
+        "therms": 3
+      }
+    },
+    "spectralType": "M"
+  }
+]

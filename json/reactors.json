@@ -1,1 +1,620 @@
-[{"cardId": 0, "deck": "Reactors", "front": {"name": "Cermet NERVA Fission", "mass": 1, "radHard": 7, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\u223f"]}], "movementModifiers": {"thrust": 3, "fuelConsumption": "1/1"}}, "back": {"name": "Pulsed NTR Fission", "mass": 0, "radHard": 7, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\u223f", "\ud83d\udca3"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "1/4"}, "supportRequirements": [{"type": "cooling", "therms": 5}]}, "spectralType": "S"}, {"cardId": 0, "deck": "Reactors", "front": {"name": "D-D Fusion Magneto-Inertial", "mass": 1, "radHard": 3, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\ud83d\udca3"]}], "movementModifiers": {"thrust": 2, "fuelConsumption": "1/1"}}, "back": {"name": "H-B Fusion Reciprocating Plasmoid", "mass": 0, "radHard": 7, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\ud83d\udca3"]}], "movementModifiers": {"thrust": 4, "fuelConsumption": "1/2"}, "supportRequirements": [{"type": "cooling", "therms": 3}]}, "spectralType": "D"}, {"cardId": 0, "deck": "Reactors", "front": {"name": "D-T Fusion Tokamak", "mass": 3, "radHard": 5, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\u223f"]}], "movementModifiers": {"thrust": 3, "fuelConsumption": "1/2"}, "supportRequirements": [{"type": "cooling", "therms": 2}]}, "back": {"name": "Antimatter GDM", "mass": 0, "radHard": 9, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\u223f", "\ud83d\udca3", "X"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "1/4"}, "supportRequirements": [{"type": "cooling", "therms": 3}]}, "spectralType": "H"}, {"cardId": 0, "deck": "Reactors", "front": {"name": "D-T Gun Fusion", "mass": 1, "radHard": 9, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\ud83d\udca3"]}], "movementModifiers": {"thrust": 1, "fuelConsumption": "1/4"}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}]}, "back": {"name": "Macron Blowpipe Fusion", "mass": 0, "radHard": 10, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\u223f", "\ud83d\udca3", "X"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "1/10"}, "supportRequirements": [{"type": "generator", "subtypes": ["\u27db"]}]}, "spectralType": "H"}, {"cardId": 0, "deck": "Reactors", "front": {"name": "Lyman Alpha Trap", "mass": 2, "radHard": 4, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\ud83d\udca3", "X"]}], "movementModifiers": {"thrust": -2, "fuelConsumption": "1/1"}}, "back": {"name": "Free Radical Hydrogen Trap", "mass": 0, "radHard": 4, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\ud83d\udca3", "X"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "1/2"}, "supportRequirements": [{"type": "cooling", "therms": 1}]}, "spectralType": "S"}, {"cardId": 0, "deck": "Reactors", "front": {"name": "Metallic Hydrogen", "mass": 0, "radHard": 2, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\ud83d\udca3"]}], "movementModifiers": {"thrust": 4, "fuelConsumption": "1/1"}, "supportRequirements": [{"type": "cooling", "therms": 2}]}, "back": {"name": "Fission-Augmented D-T Inertial Fusion", "mass": 1, "radHard": 7, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\ud83d\udca3"]}], "movementModifiers": {"thrust": 7, "fuelConsumption": "1/1"}, "supportRequirements": [{"type": "cooling", "therms": 2}]}, "spectralType": "V"}, {"cardId": 0, "deck": "Reactors", "front": {"name": "Mini-Mag RF Paul Trap", "mass": 1, "radHard": 2, "airEater": true, "ability": "SCOOP: -2 ISRU for Colocated ISRU platforms at Aerostat Sites.", "supports": [{"type": "reactor", "subtypes": ["X"]}], "movementModifiers": {"thrust": -3, "fuelConsumption": "1/1"}}, "back": {"name": "Ultracold Neutrons", "mass": 1, "radHard": 5, "airEater": false, "ability": "SCOOP: -2 ISRU for Colocated ISRU platforms at Aerostat Sites.", "supports": [{"type": "reactor", "subtypes": ["\ud83d\udca3", "X"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": ""}}, "spectralType": "C"}, {"cardId": 0, "deck": "Reactors", "front": {"name": "Pebble Bed Fission", "mass": 1, "radHard": 6, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\u223f"]}], "movementModifiers": {"thrust": 4, "fuelConsumption": "1/1"}, "supportRequirements": [{"type": "cooling", "therms": 1}]}, "back": {"name": "VCR Light Bulb Fission", "mass": 0, "radHard": 6, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\u223f"]}], "movementModifiers": {"thrust": 2, "fuelConsumption": "1/2"}, "supportRequirements": [{"type": "cooling", "therms": 1}]}, "spectralType": "S"}, {"cardId": 0, "deck": "Reactors", "front": {"name": "Penning Trap", "mass": 2, "radHard": 3, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\ud83d\udca3", "X"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": ""}}, "back": {"name": "3He-D Fusion Mirror Cell", "mass": 1, "radHard": 5, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\u223f"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "1/4"}, "supportRequirements": [{"type": "cooling", "therms": 1}]}, "spectralType": "H"}, {"cardId": 0, "deck": "Reactors", "front": {"name": "Project Orion", "mass": 6, "radHard": 8, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\ud83d\udca3"]}], "movementModifiers": {"thrust": 7, "fuelConsumption": "1/1"}, "supportRequirements": [{"type": "cooling", "therms": 1}]}, "back": {"name": "Project Valkyrie", "mass": 1, "radHard": 9, "airEater": false, "ability": "When activated, Decommission colocated cards with Rad-Hard <4.", "supports": [{"type": "reactor", "subtypes": ["\ud83d\udca3"]}], "movementModifiers": {"thrust": 8, "fuelConsumption": "1/4"}, "supportRequirements": [{"type": "reactor", "subtypes": ["X"]}, {"type": "cooling", "therms": 3}]}, "spectralType": "S"}, {"cardId": 0, "deck": "Reactors", "front": {"name": "Rubbia Thin Film Fission Hohlraum", "mass": 1, "radHard": 5, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\u223f"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "1/2"}, "supportRequirements": [{"type": "cooling", "therms": 1}]}, "back": {"name": "Positronium Bottle", "mass": 0, "radHard": 9, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\u223f", "X"]}], "movementModifiers": {"thrust": 0, "fuelConsumption": "1/2"}, "supportRequirements": [{"type": "cooling", "therms": 1}]}, "spectralType": "M"}, {"cardId": 0, "deck": "Reactors", "front": {"name": "Supercritical Water Fission", "mass": 1, "radHard": 7, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\u223f"]}], "movementModifiers": {"thrust": 3, "fuelConsumption": "1/1"}, "supportRequirements": [{"type": "cooling", "therms": 2}]}, "back": {"name": "H-6Li Fusor", "mass": 0, "radHard": 4, "airEater": false, "supports": [{"type": "reactor", "subtypes": ["\u223f", "\ud83d\udca3"]}], "movementModifiers": {"thrust": 2, "fuelConsumption": "1/1"}}, "spectralType": "V"}]
+[
+  {
+    "cardId": 0,
+    "deck": "Reactors",
+    "front": {
+      "name": "Cermet NERVA Fission",
+      "mass": 1,
+      "radHard": 7,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 3,
+        "fuelConsumption": "1/1"
+      }
+    },
+    "back": {
+      "name": "Pulsed NTR Fission",
+      "mass": 0,
+      "radHard": 7,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿",
+            "💣"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "1/4"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 5
+        }
+      ]
+    },
+    "spectralType": "S"
+  },
+  {
+    "cardId": 0,
+    "deck": "Reactors",
+    "front": {
+      "name": "D-D Fusion Magneto-Inertial",
+      "mass": 1,
+      "radHard": 3,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 2,
+        "fuelConsumption": "1/1"
+      }
+    },
+    "back": {
+      "name": "H-B Fusion Reciprocating Plasmoid",
+      "mass": 0,
+      "radHard": 7,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 4,
+        "fuelConsumption": "1/2"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 3
+        }
+      ]
+    },
+    "spectralType": "D"
+  },
+  {
+    "cardId": 0,
+    "deck": "Reactors",
+    "front": {
+      "name": "D-T Fusion Tokamak",
+      "mass": 3,
+      "radHard": 5,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 3,
+        "fuelConsumption": "1/2"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "back": {
+      "name": "Antimatter GDM",
+      "mass": 0,
+      "radHard": 9,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿",
+            "💣",
+            "X"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "1/4"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 3
+        }
+      ]
+    },
+    "spectralType": "H"
+  },
+  {
+    "cardId": 0,
+    "deck": "Reactors",
+    "front": {
+      "name": "D-T Gun Fusion",
+      "mass": 1,
+      "radHard": 9,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 1,
+        "fuelConsumption": "1/4"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        }
+      ]
+    },
+    "back": {
+      "name": "Macron Blowpipe Fusion",
+      "mass": 0,
+      "radHard": 10,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿",
+            "💣",
+            "X"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "1/10"
+      },
+      "supportRequirements": [
+        {
+          "type": "generator",
+          "subtypes": [
+            "⟛"
+          ]
+        }
+      ]
+    },
+    "spectralType": "H"
+  },
+  {
+    "cardId": 0,
+    "deck": "Reactors",
+    "front": {
+      "name": "Lyman Alpha Trap",
+      "mass": 2,
+      "radHard": 4,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣",
+            "X"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": -2,
+        "fuelConsumption": "1/1"
+      }
+    },
+    "back": {
+      "name": "Free Radical Hydrogen Trap",
+      "mass": 0,
+      "radHard": 4,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣",
+            "X"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "1/2"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "spectralType": "S"
+  },
+  {
+    "cardId": 0,
+    "deck": "Reactors",
+    "front": {
+      "name": "Metallic Hydrogen",
+      "mass": 0,
+      "radHard": 2,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 4,
+        "fuelConsumption": "1/1"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "back": {
+      "name": "Fission-Augmented D-T Inertial Fusion",
+      "mass": 1,
+      "radHard": 7,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 7,
+        "fuelConsumption": "1/1"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "spectralType": "V"
+  },
+  {
+    "cardId": 0,
+    "deck": "Reactors",
+    "front": {
+      "name": "Mini-Mag RF Paul Trap",
+      "mass": 1,
+      "radHard": 2,
+      "airEater": true,
+      "ability": "SCOOP: -2 ISRU for Colocated ISRU platforms at Aerostat Sites.",
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "X"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": -3,
+        "fuelConsumption": "1/1"
+      }
+    },
+    "back": {
+      "name": "Ultracold Neutrons",
+      "mass": 1,
+      "radHard": 5,
+      "airEater": false,
+      "ability": "SCOOP: -2 ISRU for Colocated ISRU platforms at Aerostat Sites.",
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣",
+            "X"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": ""
+      }
+    },
+    "spectralType": "C"
+  },
+  {
+    "cardId": 0,
+    "deck": "Reactors",
+    "front": {
+      "name": "Pebble Bed Fission",
+      "mass": 1,
+      "radHard": 6,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 4,
+        "fuelConsumption": "1/1"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "back": {
+      "name": "VCR Light Bulb Fission",
+      "mass": 0,
+      "radHard": 6,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 2,
+        "fuelConsumption": "1/2"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "spectralType": "S"
+  },
+  {
+    "cardId": 0,
+    "deck": "Reactors",
+    "front": {
+      "name": "Penning Trap",
+      "mass": 2,
+      "radHard": 3,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣",
+            "X"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": ""
+      }
+    },
+    "back": {
+      "name": "3He-D Fusion Mirror Cell",
+      "mass": 1,
+      "radHard": 5,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "1/4"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "spectralType": "H"
+  },
+  {
+    "cardId": 0,
+    "deck": "Reactors",
+    "front": {
+      "name": "Project Orion",
+      "mass": 6,
+      "radHard": 8,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 7,
+        "fuelConsumption": "1/1"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "back": {
+      "name": "Project Valkyrie",
+      "mass": 1,
+      "radHard": 9,
+      "airEater": false,
+      "ability": "When activated, Decommission colocated cards with Rad-Hard <4.",
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "💣"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 8,
+        "fuelConsumption": "1/4"
+      },
+      "supportRequirements": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "X"
+          ]
+        },
+        {
+          "type": "cooling",
+          "therms": 3
+        }
+      ]
+    },
+    "spectralType": "S"
+  },
+  {
+    "cardId": 0,
+    "deck": "Reactors",
+    "front": {
+      "name": "Rubbia Thin Film Fission Hohlraum",
+      "mass": 1,
+      "radHard": 5,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "1/2"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "back": {
+      "name": "Positronium Bottle",
+      "mass": 0,
+      "radHard": 9,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿",
+            "X"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 0,
+        "fuelConsumption": "1/2"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 1
+        }
+      ]
+    },
+    "spectralType": "M"
+  },
+  {
+    "cardId": 0,
+    "deck": "Reactors",
+    "front": {
+      "name": "Supercritical Water Fission",
+      "mass": 1,
+      "radHard": 7,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 3,
+        "fuelConsumption": "1/1"
+      },
+      "supportRequirements": [
+        {
+          "type": "cooling",
+          "therms": 2
+        }
+      ]
+    },
+    "back": {
+      "name": "H-6Li Fusor",
+      "mass": 0,
+      "radHard": 4,
+      "airEater": false,
+      "supports": [
+        {
+          "type": "reactor",
+          "subtypes": [
+            "∿",
+            "💣"
+          ]
+        }
+      ],
+      "movementModifiers": {
+        "thrust": 2,
+        "fuelConsumption": "1/1"
+      }
+    },
+    "spectralType": "V"
+  }
+]
