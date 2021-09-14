@@ -1,6 +1,6 @@
 [
   {
-    "cardId": 0,
+    "cardId": 178,
     "deck": "Bernals",
     "front": {
       "name": "GEO Elevator Bernal",
@@ -45,7 +45,7 @@
     "promotionColony": "Atmospheric"
   },
   {
-    "cardId": 0,
+    "cardId": 172,
     "deck": "Bernals",
     "front": {
       "name": "L1 Climate Control Bernal",
@@ -90,7 +90,7 @@
     "promotionColony": "Atmospheric"
   },
   {
-    "cardId": 0,
+    "cardId": 173,
     "deck": "Bernals",
     "front": {
       "name": "L2 Collimator Bernal",
@@ -135,7 +135,7 @@
     "promotionColony": "Push"
   },
   {
-    "cardId": 0,
+    "cardId": 175,
     "deck": "Bernals",
     "front": {
       "name": "L3 Lofstrom Loop Microgravity",
@@ -180,7 +180,7 @@
     "promotionColony": "Submarine"
   },
   {
-    "cardId": 0,
+    "cardId": 170,
     "deck": "Bernals",
     "front": {
       "name": "L4 Antimatter Factory",
@@ -233,7 +233,7 @@
     "promotionColony": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 176,
     "deck": "Bernals",
     "front": {
       "name": "L4s Pharmaceutics Bernal",
@@ -278,7 +278,7 @@
     "promotionColony": "Astrobiology"
   },
   {
-    "cardId": 0,
+    "cardId": 177,
     "deck": "Bernals",
     "front": {
       "name": "L5 Solar Cell Factory",
@@ -323,7 +323,7 @@
     "promotionColony": "Push"
   },
   {
-    "cardId": 0,
+    "cardId": 171,
     "deck": "Bernals",
     "front": {
       "name": "L5s Cancer Hospital",
@@ -368,7 +368,7 @@
     "promotionColony": "Submarine"
   },
   {
-    "cardId": 0,
+    "cardId": 174,
     "deck": "Bernals",
     "front": {
       "name": "SSO Diplomatic",
@@ -413,7 +413,7 @@
     "promotionColony": "Astrobiology"
   },
   {
-    "cardId": 0,
+    "cardId": 179,
     "deck": "Bernals",
     "front": {
       "name": "Tourism Cycler",

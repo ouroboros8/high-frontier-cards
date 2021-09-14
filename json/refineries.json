@@ -1,6 +1,6 @@
 [
   {
-    "cardId": 0,
+    "cardId": 68,
     "deck": "Refineries",
     "front": {
       "name": "Atomic Layer Deposition",
@@ -26,7 +26,7 @@
     "spectralType": "V"
   },
   {
-    "cardId": 0,
+    "cardId": 73,
     "deck": "Refineries",
     "front": {
       "name": "Basalt Fiber Spinning",
@@ -54,7 +54,7 @@
     "spectralType": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 70,
     "deck": "Refineries",
     "front": {
       "name": "CVD Molding",
@@ -72,7 +72,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 69,
     "deck": "Refineries",
     "front": {
       "name": "Carbo-Chlorination",
@@ -98,7 +98,7 @@
     "spectralType": "V"
   },
   {
-    "cardId": 0,
+    "cardId": 74,
     "deck": "Refineries",
     "front": {
       "name": "Electroforming",
@@ -124,7 +124,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 71,
     "deck": "Refineries",
     "front": {
       "name": "Fluidized Bed",
@@ -158,7 +158,7 @@
     "spectralType": "V"
   },
   {
-    "cardId": 0,
+    "cardId": 77,
     "deck": "Refineries",
     "front": {
       "name": "Foamglass Sintering",
@@ -192,7 +192,7 @@
     "spectralType": "D"
   },
   {
-    "cardId": 0,
+    "cardId": 76,
     "deck": "Refineries",
     "front": {
       "name": "Froth Flotation",
@@ -218,7 +218,7 @@
     "spectralType": "D"
   },
   {
-    "cardId": 0,
+    "cardId": 75,
     "deck": "Refineries",
     "front": {
       "name": "ISRU Sabatier",
@@ -244,7 +244,7 @@
     "spectralType": "V"
   },
   {
-    "cardId": 0,
+    "cardId": 78,
     "deck": "Refineries",
     "front": {
       "name": "In-Situ Leaching",
@@ -282,7 +282,7 @@
     "spectralType": "D"
   },
   {
-    "cardId": 0,
+    "cardId": 72,
     "deck": "Refineries",
     "front": {
       "name": "Magma Electrolysis",
@@ -308,7 +308,7 @@
     "spectralType": "V"
   },
   {
-    "cardId": 0,
+    "cardId": 79,
     "deck": "Refineries",
     "front": {
       "name": "Supercritical Drying",

@@ -1,6 +1,6 @@
 [
   {
-    "cardId": 0,
+    "cardId": 104,
     "deck": "Generators",
     "front": {
       "name": "AMTEC Thermoelectric",
@@ -57,7 +57,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 107,
     "deck": "Generators",
     "front": {
       "name": "Brayton Turbine",
@@ -114,7 +114,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 106,
     "deck": "Generators",
     "front": {
       "name": "Cascade Photovoltaic",
@@ -157,7 +157,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 115,
     "deck": "Generators",
     "front": {
       "name": "Cascade Thermoacoustic",
@@ -212,7 +212,7 @@
     "spectralType": "V"
   },
   {
-    "cardId": 0,
+    "cardId": 114,
     "deck": "Generators",
     "front": {
       "name": "Catalyzed Fission Scintillator",
@@ -269,7 +269,7 @@
     "spectralType": "D"
   },
   {
-    "cardId": 0,
+    "cardId": 118,
     "deck": "Generators",
     "front": {
       "name": "Ericsson Engine",
@@ -335,7 +335,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 111,
     "deck": "Generators",
     "front": {
       "name": "Flywheel Compulsator",
@@ -380,7 +380,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 112,
     "deck": "Generators",
     "front": {
       "name": "H2-O2 Fuel Cell",
@@ -424,7 +424,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 108,
     "deck": "Generators",
     "front": {
       "name": "In-Core Thermionic",
@@ -488,7 +488,7 @@
     "spectralType": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 116,
     "deck": "Generators",
     "front": {
       "name": "Magnetoshell Plasma Parachute",
@@ -533,7 +533,7 @@
     "spectralType": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 117,
     "deck": "Generators",
     "front": {
       "name": "Marx Capacitor Bank",
@@ -592,7 +592,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 120,
     "deck": "Generators",
     "front": {
       "name": "Optoelectric Nuclear Battery",
@@ -654,7 +654,7 @@
     "spectralType": "V"
   },
   {
-    "cardId": 0,
+    "cardId": 109,
     "deck": "Generators",
     "front": {
       "name": "Photon Tether Rectenna",
@@ -697,7 +697,7 @@
     "spectralType": "V"
   },
   {
-    "cardId": 0,
+    "cardId": 119,
     "deck": "Generators",
     "front": {
       "name": "Radioisotope Stirling",
@@ -741,7 +741,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 110,
     "deck": "Generators",
     "front": {
       "name": "Rankine MHD",
@@ -806,7 +806,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 113,
     "deck": "Generators",
     "front": {
       "name": "Rankine Solar Dynamic",
@@ -866,7 +866,7 @@
     "spectralType": "D"
   },
   {
-    "cardId": 0,
+    "cardId": 105,
     "deck": "Generators",
     "front": {
       "name": "Solar Stirling",

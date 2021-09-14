@@ -1,6 +1,6 @@
 [
   {
-    "cardId": 0,
+    "cardId": 63,
     "deck": "Robonauts",
     "front": {
       "name": "Blackbody-Pumped Laser",
@@ -46,7 +46,7 @@
     "spectralType": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 57,
     "deck": "Robonauts",
     "front": {
       "name": "Cat Fusion Z-pinch Torch",
@@ -105,7 +105,7 @@
     "spectralType": "D"
   },
   {
-    "cardId": 0,
+    "cardId": 59,
     "deck": "Robonauts",
     "front": {
       "name": "Flywheel Tractor",
@@ -140,7 +140,7 @@
     "spectralType": "D"
   },
   {
-    "cardId": 0,
+    "cardId": 66,
     "deck": "Robonauts",
     "front": {
       "name": "Free Electron Laser",
@@ -195,7 +195,7 @@
     "spectralType": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 60,
     "deck": "Robonauts",
     "front": {
       "name": "Kuck Mosquito",
@@ -246,7 +246,7 @@
     "spectralType": "D"
   },
   {
-    "cardId": 0,
+    "cardId": 62,
     "deck": "Robonauts",
     "front": {
       "name": "MET Steamer",
@@ -289,7 +289,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 56,
     "deck": "Robonauts",
     "front": {
       "name": "Neutral Beam",
@@ -344,7 +344,7 @@
     "spectralType": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 58,
     "deck": "Robonauts",
     "front": {
       "name": "Nuclear Drill",
@@ -404,7 +404,7 @@
     "spectralType": "D"
   },
   {
-    "cardId": 0,
+    "cardId": 67,
     "deck": "Robonauts",
     "front": {
       "name": "Phase-Locked Diode Laser",
@@ -440,7 +440,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 61,
     "deck": "Robonauts",
     "front": {
       "name": "Rock Splitter",
@@ -485,7 +485,7 @@
     "spectralType": "V"
   },
   {
-    "cardId": 0,
+    "cardId": 65,
     "deck": "Robonauts",
     "front": {
       "name": "Solar-Pumped MHD Exciplex Laser",
@@ -530,7 +530,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 64,
     "deck": "Robonauts",
     "front": {
       "name": "Tungsten Resistojet",

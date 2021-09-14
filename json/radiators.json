@@ -1,6 +1,6 @@
 [
   {
-    "cardId": 0,
+    "cardId": 92,
     "deck": "Radiators",
     "front": {
       "name": "Bubble Membrane",
@@ -31,7 +31,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 100,
     "deck": "Radiators",
     "front": {
       "name": "Dielectric X-Ray Window",
@@ -62,7 +62,7 @@
     "spectralType": "D"
   },
   {
-    "cardId": 0,
+    "cardId": 97,
     "deck": "Radiators",
     "front": {
       "name": "ETHER Charged Dust",
@@ -93,7 +93,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 102,
     "deck": "Radiators",
     "front": {
       "name": "Li Heatsink Fountain",
@@ -126,7 +126,7 @@
     "spectralType": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 99,
     "deck": "Radiators",
     "front": {
       "name": "Magnetocaloric Refrigerator",
@@ -175,7 +175,7 @@
     "spectralType": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 94,
     "deck": "Radiators",
     "front": {
       "name": "Microtube Array",
@@ -206,7 +206,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 98,
     "deck": "Radiators",
     "front": {
       "name": "Mo / Li Heat Pipe",
@@ -237,7 +237,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 103,
     "deck": "Radiators",
     "front": {
       "name": "Qu Tube",
@@ -268,7 +268,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 93,
     "deck": "Radiators",
     "front": {
       "name": "SS / NaK Pumped Loop",
@@ -299,7 +299,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 96,
     "deck": "Radiators",
     "front": {
       "name": "Salt-Cooled Reflux Tube",
@@ -330,7 +330,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 101,
     "deck": "Radiators",
     "front": {
       "name": "Steel / Pb-Bi Pumped Loop",
@@ -361,7 +361,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 95,
     "deck": "Radiators",
     "front": {
       "name": "Ti / K Heat Pipe",

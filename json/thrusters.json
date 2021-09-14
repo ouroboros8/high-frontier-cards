@@ -1,6 +1,6 @@
 [
   {
-    "cardId": 0,
+    "cardId": 52,
     "deck": "Thrusters",
     "front": {
       "name": "Ablative Plate",
@@ -52,7 +52,7 @@
     "spectralType": "V"
   },
   {
-    "cardId": 0,
+    "cardId": 46,
     "deck": "Thrusters",
     "front": {
       "name": "De Laval Nozzle",
@@ -102,7 +102,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 54,
     "deck": "Thrusters",
     "front": {
       "name": "Dumbo",
@@ -154,7 +154,7 @@
     "spectralType": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 45,
     "deck": "Thrusters",
     "front": {
       "name": "Hall Effect",
@@ -203,7 +203,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 53,
     "deck": "Thrusters",
     "front": {
       "name": "Mass Driver",
@@ -252,7 +252,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 44,
     "deck": "Thrusters",
     "front": {
       "name": "Metastable Helium",
@@ -309,7 +309,7 @@
     "spectralType": "V"
   },
   {
-    "cardId": 0,
+    "cardId": 51,
     "deck": "Thrusters",
     "front": {
       "name": "Monoatomic Plug Nozzle",
@@ -362,7 +362,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 50,
     "deck": "Thrusters",
     "front": {
       "name": "Photon Heliogyro",
@@ -397,7 +397,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 49,
     "deck": "Thrusters",
     "front": {
       "name": "Photon Kite Sail",
@@ -432,7 +432,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 47,
     "deck": "Thrusters",
     "front": {
       "name": "Ponderomotive VASIMR",
@@ -473,7 +473,7 @@
     "spectralType": "V"
   },
   {
-    "cardId": 0,
+    "cardId": 55,
     "deck": "Thrusters",
     "front": {
       "name": "Pulsed Inductive",
@@ -522,7 +522,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 48,
     "deck": "Thrusters",
     "front": {
       "name": "Re Solar Moth",

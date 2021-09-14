@@ -1,6 +1,6 @@
 [
   {
-    "cardId": 0,
+    "cardId": 165,
     "deck": "Freighters",
     "front": {
       "name": "Fission-Heated Steam",
@@ -40,7 +40,7 @@
     "promotionColony": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 168,
     "deck": "Freighters",
     "front": {
       "name": "Fusion Fragment Sail",
@@ -65,7 +65,7 @@
     "promotionColony": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 169,
     "deck": "Freighters",
     "front": {
       "name": "HIIPER Beam Rider",
@@ -105,7 +105,7 @@
     "promotionColony": "Push"
   },
   {
-    "cardId": 0,
+    "cardId": 163,
     "deck": "Freighters",
     "front": {
       "name": "Inflatable Solar-Heated",
@@ -130,7 +130,7 @@
     "promotionColony": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 166,
     "deck": "Freighters",
     "front": {
       "name": "Poodle Steam",
@@ -154,7 +154,7 @@
     "promotionColony": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 164,
     "deck": "Freighters",
     "front": {
       "name": "Rotary Dirt Launcher",
@@ -205,7 +205,7 @@
     "promotionColony": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 167,
     "deck": "Freighters",
     "front": {
       "name": "Z-Pinch D-T / 6Li Fusion",

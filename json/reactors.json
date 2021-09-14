@@ -1,6 +1,6 @@
 [
   {
-    "cardId": 0,
+    "cardId": 90,
     "deck": "Reactors",
     "front": {
       "name": "Cermet NERVA Fission",
@@ -48,7 +48,7 @@
     "spectralType": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 87,
     "deck": "Reactors",
     "front": {
       "name": "D-D Fusion Magneto-Inertial",
@@ -95,7 +95,7 @@
     "spectralType": "D"
   },
   {
-    "cardId": 0,
+    "cardId": 84,
     "deck": "Reactors",
     "front": {
       "name": "D-T Fusion Tokamak",
@@ -150,7 +150,7 @@
     "spectralType": "H"
   },
   {
-    "cardId": 0,
+    "cardId": 91,
     "deck": "Reactors",
     "front": {
       "name": "D-T Gun Fusion",
@@ -209,7 +209,7 @@
     "spectralType": "H"
   },
   {
-    "cardId": 0,
+    "cardId": 85,
     "deck": "Reactors",
     "front": {
       "name": "Lyman Alpha Trap",
@@ -258,7 +258,7 @@
     "spectralType": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 89,
     "deck": "Reactors",
     "front": {
       "name": "Metallic Hydrogen",
@@ -311,7 +311,7 @@
     "spectralType": "V"
   },
   {
-    "cardId": 0,
+    "cardId": 83,
     "deck": "Reactors",
     "front": {
       "name": "Mini-Mag RF Paul Trap",
@@ -355,7 +355,7 @@
     "spectralType": "C"
   },
   {
-    "cardId": 0,
+    "cardId": 80,
     "deck": "Reactors",
     "front": {
       "name": "Pebble Bed Fission",
@@ -408,7 +408,7 @@
     "spectralType": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 86,
     "deck": "Reactors",
     "front": {
       "name": "Penning Trap",
@@ -456,7 +456,7 @@
     "spectralType": "H"
   },
   {
-    "cardId": 0,
+    "cardId": 81,
     "deck": "Reactors",
     "front": {
       "name": "Project Orion",
@@ -516,7 +516,7 @@
     "spectralType": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 88,
     "deck": "Reactors",
     "front": {
       "name": "Rubbia Thin Film Fission Hohlraum",
@@ -570,7 +570,7 @@
     "spectralType": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 82,
     "deck": "Reactors",
     "front": {
       "name": "Supercritical Water Fission",

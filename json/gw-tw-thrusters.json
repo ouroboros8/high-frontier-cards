@@ -1,6 +1,6 @@
 [
   {
-    "cardId": 0,
+    "cardId": 157,
     "deck": "GW/TW Thrusters",
     "front": {
       "name": "Amat-Catalyzed Fission-Fusion",
@@ -53,7 +53,7 @@
     "promotionColony": "D"
   },
   {
-    "cardId": 0,
+    "cardId": 160,
     "deck": "GW/TW Thrusters",
     "front": {
       "name": "Dense Plasma H-B Focus Fusion",
@@ -98,7 +98,7 @@
     "promotionColony": "D"
   },
   {
-    "cardId": 0,
+    "cardId": 158,
     "deck": "GW/TW Thrusters",
     "front": {
       "name": "Levitated Dipole 6Li-H Fusion",
@@ -139,7 +139,7 @@
     "promotionColony": "S"
   },
   {
-    "cardId": 0,
+    "cardId": 162,
     "deck": "GW/TW Thrusters",
     "front": {
       "name": "Mini-Mag Orion Z-Pinch Fission",
@@ -188,7 +188,7 @@
     "promotionColony": "D"
   },
   {
-    "cardId": 0,
+    "cardId": 156,
     "deck": "GW/TW Thrusters",
     "front": {
       "name": "Salt-Water Zubrin",
@@ -235,7 +235,7 @@
     "promotionColony": "M"
   },
   {
-    "cardId": 0,
+    "cardId": 161,
     "deck": "GW/TW Thrusters",
     "front": {
       "name": "Spheromak 3He-D Magnetic Fusion",
@@ -288,7 +288,7 @@
     "promotionColony": "H"
   },
   {
-    "cardId": 0,
+    "cardId": 159,
     "deck": "GW/TW Thrusters",
     "front": {
       "name": "VISTA D-T Inertial Fusion",
